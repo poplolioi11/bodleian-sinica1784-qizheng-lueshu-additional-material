@@ -11,3 +11,7 @@ Qi zheng lue shu (editorial translation: Brief accounts of remarkable cases) is 
 [原件](https://digital.bodleian.ox.ac.uk/objects/75495a4f-25ed-4a47-a505-b857f862bb74/)、[範圍](COVERAGE.json)、[逐單位變更](CHANGES.json)、[疑讀](uncertainties.json)、[讀者指南](READING-GUIDE.md)、[品質](QUALITY.md)、[權利](RIGHTS.md)。
 
 整理者曲宸宇／Chu, Chen-Yu（帳號poplolioi11），[ORCID](https://orcid.org/0009-0003-9738-6914)。無館方共同製作或背書聲明。
+
+[0.1.0 DOI](https://doi.org/10.5281/zenodo.24147338) · [0.2.0 DOI](https://doi.org/10.5281/zenodo.24147371) · [所有版本](https://doi.org/10.5281/zenodo.24147337) · [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.2.0) · [醫學史社群](https://zenodo.org/communities/late-qing-medical-history/)
+
+本主分支於固定版公開後補入 DOI 與引用連結。SHA256SUMS 驗證固定 release 內容；封存包保留製備時的文件，現行發布狀態以本頁與 DOI 頁為準。
