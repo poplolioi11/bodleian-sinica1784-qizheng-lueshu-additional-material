@@ -1,0 +1,945 @@
+{
+  "original_print_faces": 91,
+  "text_faces_here": 60,
+  "shared_reference_faces": 31,
+  "faces": [
+    {
+      "face_id": "f002-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec707191-8e0b-4519-bf23-315ae8adc5f9.json",
+      "side": "L",
+      "source_role": "title-imprint",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f003-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9a07888c-57b0-4894-bb05-f9636c9827db.json",
+      "side": "L",
+      "source_role": "self-account",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f004-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/54cbc99d-b8ed-4d74-b557-757b48581778.json",
+      "side": "R",
+      "source_role": "self-account",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f004-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/54cbc99d-b8ed-4d74-b557-757b48581778.json",
+      "side": "L",
+      "source_role": "preface",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f005-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cf0acc64-382a-4b47-a85d-832e94f4df27.json",
+      "side": "R",
+      "source_role": "preface",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f005-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cf0acc64-382a-4b47-a85d-832e94f4df27.json",
+      "side": "L",
+      "source_role": "preface",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f006-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ba7a452c-31b3-45ee-b126-ec8f024de332.json",
+      "side": "R",
+      "source_role": "preface",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f006-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ba7a452c-31b3-45ee-b126-ec8f024de332.json",
+      "side": "L",
+      "source_role": "preface",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f007-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/058306ff-0e87-4430-b60a-ec095603c05c.json",
+      "side": "R",
+      "source_role": "preface",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f007-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/058306ff-0e87-4430-b60a-ec095603c05c.json",
+      "side": "L",
+      "source_role": "financial-and-organizational-report",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f008-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8de7b7d8-6005-43ba-a567-cd13a5f42a11.json",
+      "side": "R",
+      "source_role": "hospital-statistics-table",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f008-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8de7b7d8-6005-43ba-a567-cd13a5f42a11.json",
+      "side": "L",
+      "source_role": "hospital-statistics-table",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f009-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0e303cce-bc4e-486d-80c3-566ef062bfd6.json",
+      "side": "R",
+      "source_role": "financial-and-organizational-report",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f009-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0e303cce-bc4e-486d-80c3-566ef062bfd6.json",
+      "side": "L",
+      "source_role": "financial-and-organizational-report",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f010-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b66139d-d7d6-4279-ab80-34c4be7b2c24.json",
+      "side": "R",
+      "source_role": "financial-and-organizational-report",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f010-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b66139d-d7d6-4279-ab80-34c4be7b2c24.json",
+      "side": "L",
+      "source_role": "financial-and-organizational-report",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f011-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1a5c9eed-0c0e-4e8b-9d76-b2d57f44f416.json",
+      "side": "R",
+      "source_role": "ruled-financial-report-verso-with-paratext",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f011-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1a5c9eed-0c0e-4e8b-9d76-b2d57f44f416.json",
+      "side": "L",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f012-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/592d7294-56a5-41f1-b2e5-233a3209085d.json",
+      "side": "R",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f012-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/592d7294-56a5-41f1-b2e5-233a3209085d.json",
+      "side": "L",
+      "source_role": "numbered-illustration-plate",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f013-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/89dfd4cd-7496-4e7d-babd-cc0e080b38fa.json",
+      "side": "R",
+      "source_role": "numbered-illustration-plate",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f013-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/89dfd4cd-7496-4e7d-babd-cc0e080b38fa.json",
+      "side": "L",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f014-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b5a911d-d2f9-4e92-a68e-45b81d66b844.json",
+      "side": "R",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f014-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b5a911d-d2f9-4e92-a68e-45b81d66b844.json",
+      "side": "L",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f015-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/99817ccd-3ee6-43c7-b520-0a10f9837fa9.json",
+      "side": "R",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f015-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/99817ccd-3ee6-43c7-b520-0a10f9837fa9.json",
+      "side": "L",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f016-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5967e589-8dfb-46b1-a892-61b26bbe9b3a.json",
+      "side": "R",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f016-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5967e589-8dfb-46b1-a892-61b26bbe9b3a.json",
+      "side": "L",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f017-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd2bd0f0-af00-4e8f-989c-c675e1c602eb.json",
+      "side": "R",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f017-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd2bd0f0-af00-4e8f-989c-c675e1c602eb.json",
+      "side": "L",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f018-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/fed27341-8c56-45d9-bfb0-7cf009291433.json",
+      "side": "R",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f018-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/fed27341-8c56-45d9-bfb0-7cf009291433.json",
+      "side": "L",
+      "source_role": "patient-illustration-plate",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f019-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e16735c8-e9ba-477b-aba9-1944a0fdf89b.json",
+      "side": "R",
+      "source_role": "patient-illustration-plate",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f019-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e16735c8-e9ba-477b-aba9-1944a0fdf89b.json",
+      "side": "L",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f020-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69a46b70-4e18-41c6-82cd-3cf3fbdcab31.json",
+      "side": "R",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f020-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69a46b70-4e18-41c6-82cd-3cf3fbdcab31.json",
+      "side": "L",
+      "source_role": "later-numbered-cases",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f021-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1c35ee74-7262-46f0-8bac-6e9e20609fb9.json",
+      "side": "R",
+      "source_role": "ruled-shared-page-with-paratext",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f021-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1c35ee74-7262-46f0-8bac-6e9e20609fb9.json",
+      "side": "L",
+      "source_role": "specimen-collection-notice",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f022-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/30dae269-44c0-4528-8ecd-6c4e7bc1fdf6.json",
+      "side": "R",
+      "source_role": "early-numbered-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f022-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/30dae269-44c0-4528-8ecd-6c4e7bc1fdf6.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f023-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f5414ed8-3de9-4880-ba9c-28968f3f744d.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f023-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f5414ed8-3de9-4880-ba9c-28968f3f744d.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f024-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c95b5cd3-c24d-47a6-b334-ef6c65e48066.json",
+      "side": "R",
+      "source_role": "patient-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f024-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c95b5cd3-c24d-47a6-b334-ef6c65e48066.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f025-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/034e8a59-a3a1-4d10-bb21-8a759d8b4b41.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f025-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/034e8a59-a3a1-4d10-bb21-8a759d8b4b41.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f026-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a47889a4-762b-4cd5-8665-f82c2ebec723.json",
+      "side": "R",
+      "source_role": "early-numbered-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f026-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a47889a4-762b-4cd5-8665-f82c2ebec723.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f027-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f027-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
+      "side": "L",
+      "source_role": "early-case-and-illustration",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f028-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/95f99140-aa06-428a-bae0-f5983adbab8f.json",
+      "side": "R",
+      "source_role": "unlabelled-patient-illustration",
+      "shared_content_mapping": "unverified",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f028-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/95f99140-aa06-428a-bae0-f5983adbab8f.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f029-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/886fc9a0-5ea6-4f80-9b5f-d74018055124.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f029-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/886fc9a0-5ea6-4f80-9b5f-d74018055124.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f030-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d5cffda8-7d8f-4925-9e04-810135a3c89b.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f030-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d5cffda8-7d8f-4925-9e04-810135a3c89b.json",
+      "side": "L",
+      "source_role": "expository-section",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f031-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e75f35d9-945a-4497-b0b1-ecaad86bad78.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f031-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e75f35d9-945a-4497-b0b1-ecaad86bad78.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f032-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3635b621-212d-4452-a9ca-778d05225fc4.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f032-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3635b621-212d-4452-a9ca-778d05225fc4.json",
+      "side": "L",
+      "source_role": "early-numbered-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f033-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a3e687d6-16ee-475b-a0a6-8a4c902d90b9.json",
+      "side": "R",
+      "source_role": "early-numbered-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f033-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a3e687d6-16ee-475b-a0a6-8a4c902d90b9.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f034-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1195a73c-287d-4ab1-9a0b-aefbddc901f3.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f034-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1195a73c-287d-4ab1-9a0b-aefbddc901f3.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f035-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ff7bf057-cfd8-497a-a63e-a53f0c981d46.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f035-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ff7bf057-cfd8-497a-a63e-a53f0c981d46.json",
+      "side": "L",
+      "source_role": "early-numbered-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f036-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f4b7541c-861a-4a56-9c3b-f9972b318345.json",
+      "side": "R",
+      "source_role": "early-numbered-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f036-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f4b7541c-861a-4a56-9c3b-f9972b318345.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f037-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d2f61e79-1b25-4519-9dad-0008bd6da00c.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f037-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d2f61e79-1b25-4519-9dad-0008bd6da00c.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f038-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a377ee3e-126d-45fe-9844-7dad4b2d3505.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f038-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a377ee3e-126d-45fe-9844-7dad4b2d3505.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f039-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/90404f15-785a-4436-84d3-6b628698c221.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f039-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/90404f15-785a-4436-84d3-6b628698c221.json",
+      "side": "L",
+      "source_role": "patient-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f040-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0ede7ac5-4d2f-4ad4-89df-ba2e43b4cba7.json",
+      "side": "R",
+      "source_role": "patient-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f040-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0ede7ac5-4d2f-4ad4-89df-ba2e43b4cba7.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f041-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5d1798c4-0b84-462f-b40e-5b807bbce165.json",
+      "side": "R",
+      "source_role": "miscellaneous-case-with-figure",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f041-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5d1798c4-0b84-462f-b40e-5b807bbce165.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f042-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/37104f6c-eed0-4e33-b238-83fa8c14cb1b.json",
+      "side": "R",
+      "source_role": "toothbrush-section",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f042-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/37104f6c-eed0-4e33-b238-83fa8c14cb1b.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f043-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/53fd8b39-b680-42bb-8a01-479d17c77ae5.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f043-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/53fd8b39-b680-42bb-8a01-479d17c77ae5.json",
+      "side": "L",
+      "source_role": "opium-social-admonition-section",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f044-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cd8324e7-99ad-4ae3-80e0-90e0553d131f.json",
+      "side": "R",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f044-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cd8324e7-99ad-4ae3-80e0-90e0553d131f.json",
+      "side": "L",
+      "source_role": "earlier-or-miscellaneous-cases",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f045-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5b523a2d-5844-4506-84a6-d501bec2d991.json",
+      "side": "R",
+      "source_role": "opium-social-admonition-continuation",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f045-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5b523a2d-5844-4506-84a6-d501bec2d991.json",
+      "side": "L",
+      "source_role": "miscellaneous-expository-section",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f046-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/64650479-d39f-45ed-a4c8-fa6bdc341246.json",
+      "side": "R",
+      "source_role": "miscellaneous-expository-section",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f046-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/64650479-d39f-45ed-a4c8-fa6bdc341246.json",
+      "side": "L",
+      "source_role": "patient-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f047-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bf8141a0-33be-456d-95ce-ef219f25151c.json",
+      "side": "R",
+      "source_role": "patient-illustration-plate",
+      "shared_content_mapping": "additional",
+      "text_provided_here": true,
+      "shared_dataset": null,
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f047-L",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bf8141a0-33be-456d-95ce-ef219f25151c.json",
+      "side": "L",
+      "source_role": "colophon",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    },
+    {
+      "face_id": "f048-R",
+      "canvas_url": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2fca750b-bf6c-46ad-8288-71679ff96ae9.json",
+      "side": "R",
+      "source_role": "colophon",
+      "shared_content_mapping": "shared",
+      "text_provided_here": false,
+      "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
+      "mapping_limit": "Content/physical-position correspondence only; no exact word or image-identity collation"
+    }
+  ],
+  "chronology": [
+    {
+      "type": "catalogue-publication-range",
+      "value": "1864–1868"
+    },
+    {
+      "type": "title-print-statement",
+      "literal": "同治七年刊",
+      "year": "1868"
+    },
+    {
+      "type": "preface",
+      "year": "1869"
+    },
+    {
+      "type": "appendix-date",
+      "literal": "同治十二年正月日",
+      "year": "1873",
+      "day": "blank in source; not inferred"
+    },
+    {
+      "type": "colophon",
+      "literal": "同治五年月日",
+      "year": "1866",
+      "month_and_day": "blank in source; not inferred"
+    }
+  ],
+  "no_full_witness_faithful_transcription_claim": true
+}

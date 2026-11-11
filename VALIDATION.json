@@ -1,0 +1,59 @@
+{
+  "scope": "60additional/unverified physicalfaces plus91-face guide with31shared-content references",
+  "faces": 60,
+  "units": 617,
+  "serialized_codepoints_including_navigation_markers": 10001,
+  "uncertainty_records": 80,
+  "gaiji_occurrences": 15,
+  "small_note_parent_links": 2,
+  "original11batch_strings_unchanged": true,
+  "json_txt_tei_unit_strings_order": "passed",
+  "tei_p5_4_12_0_relaxng": "passed",
+  "cff_1_2_0_schema": "passed",
+  "private_annotations": {
+    "exit_code": 3,
+    "status": "incomplete",
+    "events": 80,
+    "pending_types": {
+      "unknown-model": 617
+    },
+    "not_full_traceability": true
+  },
+  "text_publication_gate": "allowed-as-recorded; not legal certification",
+  "independent_reading_applied": false,
+  "human_full_collation": false,
+  "expert_review": false,
+  "accuracy_measured": false,
+  "negative_checks": [
+    {
+      "case": "changed-character",
+      "rejected": true
+    },
+    {
+      "case": "missing-unit",
+      "rejected": true
+    },
+    {
+      "case": "swapped-unit-order",
+      "rejected": true
+    },
+    {
+      "case": "source-hash-change",
+      "rejected": true
+    },
+    {
+      "case": "duplicate-unit-id",
+      "rejected": true
+    },
+    {
+      "case": "uncertainty-offset-change",
+      "rejected": true
+    },
+    {
+      "case": "external-DTD",
+      "rejected": true
+    }
+  ],
+  "public_allowlist": "passed",
+  "remote_publication_performed": false
+}
