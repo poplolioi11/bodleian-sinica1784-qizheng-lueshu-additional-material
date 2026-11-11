@@ -3,13 +3,13 @@
     {
       "page_id": "f008-L",
       "unit_id": "f008-L-u008",
-      "text": "所割之症其大者則有砂淋肉瘤眼患痔骨脫口癭脤等類其餘雜症未",
+      "text": "所割之症其大者則有砂痳肉瘤眼患腐骨崩口蠱脹等類其餘雜症未",
       "parent_unit_id": "f008-L-u007",
       "status": "small parallel columns beside same row; continuation retained as printed",
-      "after_surface": "總共大小割症一千二百八十六名",
+      "exact_insertion_point_asserted": false,
+      "after_surface": "總共大小割症一千一百八十六名",
       "after_surface_start": 0,
-      "after_surface_end": 14,
-      "exact_insertion_point_asserted": false
+      "after_surface_end": 14
     },
     {
       "page_id": "f008-L",
@@ -20,6 +20,6 @@
       "exact_insertion_point_asserted": false
     }
   ],
-  "all_other_figure_labels_and_captions": "Separate units in source layout; see book.json and original images, not a continuous prose reading edition",
+  "all_other_figure_labels_and_captions": "Separate source units in source layout, not a continuous prose edition",
   "continuous_reading_edition": false
 }

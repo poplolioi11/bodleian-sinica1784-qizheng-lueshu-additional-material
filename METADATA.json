@@ -1,8 +1,8 @@
 {
   "title": "奇症略述（Bodleian Sinica 1784）：新增病例、徵信錄及圖文轉錄與跨本導讀 / Qi zheng lue shu [Brief accounts of remarkable cases]: Additional material and witness guide",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "resource_type": "dataset",
-  "publication_state": "release files fixed; DOI not assigned at preparation",
+  "publication_state": "versioned text dataset; Zenodo DOI pending",
   "creators": [
     {
       "family_name": "Chu",
@@ -13,17 +13,17 @@
   ],
   "account_alias": "poplolioi11",
   "repository_url": "https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material",
-  "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.1.0",
+  "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.2.0",
   "descriptions": [
     {
       "type": "abstract",
       "language": "zh-Hant",
-      "text": "《奇症略述》（Qi zheng lue shu；編者英譯 Brief accounts of remarkable cases）是嘉約翰（John Glasgow Kerr）在廣州博濟醫局整理的病例與院務報告。牛津博德利圖書館 Sinica 1784 藏本含結石、腫瘤、眼病、創傷、牙病及其他病例的文字與圖說，並附徵信錄、收支、施醫統計、會務及出版記事，可供晚清醫學史、醫療傳教、慈善組織、病人敘事與圖像傳播史研究。館目標示1864至1868年；卷內另有1869年序及1873年附錄，這些日期分別保留。本資料初錄60個新增或跨本圖像身分尚未確認的書面，以JSON、TXT、TEI保存來源對應、細字關係及80筆疑讀；另為全藏本91個原印面提供範圍導讀，31個共享內容面連結 Sinica 2021 既有成果，未作逐字移錄或全本異文校勘。圖像不在公開包內。這是AI輔助初錄，未納入獨立讀稿，未經人類全文雙校或專家審定。"
+      "text": "《奇症略述》（Qi zheng lue shu；編者英譯 Brief accounts of remarkable cases）是嘉約翰（John Glasgow Kerr）在廣州博濟醫局整理的病例與院務報告，牛津博德利圖書館 Sinica 1784 館目標示1864至1868年。藏本收結石、腫瘤、眼病、創傷、牙病等病例與圖說，以及徵信錄、收支、施醫統計、會務和出版記事，可供晚清醫學史、醫療傳教、慈善組織、病人敘事與醫學圖像史研究；卷內1869年序與1873年附錄的日期分別保留。本版提供60個原印面的617個文字單位，以JSON、TXT及TEI連結原件位置，另附逐單位變更與細註關係；全藏本91面中的其餘31個共享內容面只連結Sinica 2021既有成果，未作全本逐字異文校勘。文字由AI輔助初錄及獨立原圖讀稿比對後回圖修訂，尚未經人類全文校勘，疑讀已標記。"
     },
     {
       "type": "abstract",
       "language": "en",
-      "text": "Qi zheng lue shu (editorial translation: Brief accounts of remarkable cases), compiled by John Glasgow Kerr at the Medical Missionary Society's Hospital at Canton, brings together historical case records and hospital reports. Bodleian Sinica 1784 includes accounts and captions concerning stones, tumours, eye conditions, injuries, dental conditions and other cases, alongside an annual report, income and expenditure, attendance figures, organizational business and publishing notices. It supports histories of medicine, medical missions, charity, patient narratives and medical illustration. The catalogue dates the work to 1864–1868; the witness also contains a preface dated 1869 and an appendix dated 1873, recorded as distinct events. This dataset provides an AI-assisted initial transcription of 60 additional or cross-witness image-identity-unverified faces in JSON, TXT and TEI, with source links, small-note relationships and 80 uncertainty records. A coverage guide covers all 91 original printed faces and links 31 shared-content faces to the existing Sinica 2021 dataset; no text has been silently transferred and no full witness collation is claimed. Images are excluded. No independent reading is incorporated in this initial version; it has not undergone full human double collation or expert approval."
+      "text": "Qi zheng lue shu (editorial translation: Brief accounts of remarkable cases) is a collection of case records and hospital reports compiled by John Glasgow Kerr at the Medical Missionary Society's Hospital at Canton (Bodleian Sinica 1784; catalogued 1864–1868). It includes records and captions concerning stones, tumours, eye conditions, injuries and dental conditions, alongside annual reports, accounts, attendance figures, organizational business and publishing notices. It supports histories of medicine, medical missions, charity, patient narratives and medical illustration. The witness's preface dated 1869 and appendix dated 1873 are recorded separately. This version provides 617 text units from 60 original printed faces in JSON, TXT and TEI linked to source locations, with unit-level changes and small-note relationships. The remaining 31 shared-content faces in the 91-face witness are linked to the existing Sinica 2021 dataset; no complete word-for-word collation of the witnesses is claimed. AI-assisted initial and independent source readings were compared and revised against the images; the text has not undergone full human collation, and unresolved readings are marked."
     }
   ],
   "keywords": [

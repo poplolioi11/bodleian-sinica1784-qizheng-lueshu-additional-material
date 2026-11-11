@@ -1,16 +1,16 @@
 cff-version: 1.2.0
 message: Please cite this fixed version and the original Bodleian witness.
 type: dataset
-title: '奇症略述（Bodleian Sinica 1784）：新增病例、徵信錄及圖文轉錄與跨本導讀 / Qi zheng lue shu [Brief accounts
-  of remarkable cases]: Additional material and witness guide'
-version: 0.1.0
-date-released: '2026-11-11'
+title: '奇症略述（Bodleian Sinica 1784）：新增病例、徵信錄及圖文轉錄與跨本導讀 / Qi zheng lue shu [Brief accounts of
+  remarkable cases]: Additional material and witness guide'
+version: 0.2.0
+date-released: '2026-11-12'
 authors:
 - family-names: Chu
   given-names: Chen-Yu
   orcid: https://orcid.org/0009-0003-9738-6914
 repository-code: https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material
-url: https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.1.0
+url: https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.2.0
 license: CC-BY-4.0
 keywords:
 - 奇症略述
@@ -36,3 +36,17 @@ keywords:
 - Sinica 2021
 - TEI XML
 - IIIF
+abstract: 'Qi zheng lue shu (editorial translation: Brief accounts of remarkable cases) is
+  a collection of case records and hospital reports compiled by John Glasgow Kerr at the Medical
+  Missionary Society''s Hospital at Canton (Bodleian Sinica 1784; catalogued 1864–1868). It
+  includes records and captions concerning stones, tumours, eye conditions, injuries and dental
+  conditions, alongside annual reports, accounts, attendance figures, organizational business
+  and publishing notices. It supports histories of medicine, medical missions, charity, patient
+  narratives and medical illustration. The witness''s preface dated 1869 and appendix dated
+  1873 are recorded separately. This version provides 617 text units from 60 original printed
+  faces in JSON, TXT and TEI linked to source locations, with unit-level changes and small-note
+  relationships. The remaining 31 shared-content faces in the 91-face witness are linked to
+  the existing Sinica 2021 dataset; no complete word-for-word collation of the witnesses is
+  claimed. AI-assisted initial and independent source readings were compared and revised against
+  the images; the text has not undergone full human collation, and unresolved readings are
+  marked.'

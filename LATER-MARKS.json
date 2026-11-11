@@ -1,0 +1,136 @@
+{
+  "records": [
+    {
+      "page_id": "f035-L",
+      "role": "later-handwritten-number",
+      "text": "59",
+      "bbox_face_local": [
+        79,
+        335,
+        111,
+        367
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "1e78e80c089be29fd5d88e8408b13dd561f34d237d17a74c4de08c56c86b724a"
+    },
+    {
+      "page_id": "f035-L",
+      "role": "later-handwritten-number",
+      "text": "60",
+      "bbox_face_local": [
+        390,
+        349,
+        422,
+        382
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "1e78e80c089be29fd5d88e8408b13dd561f34d237d17a74c4de08c56c86b724a"
+    },
+    {
+      "page_id": "f035-L",
+      "role": "later-handwritten-number",
+      "text": "61",
+      "bbox_face_local": [
+        103,
+        500,
+        133,
+        533
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "1e78e80c089be29fd5d88e8408b13dd561f34d237d17a74c4de08c56c86b724a"
+    },
+    {
+      "page_id": "f035-L",
+      "role": "later-handwritten-number",
+      "text": "62",
+      "bbox_face_local": [
+        96,
+        624,
+        129,
+        656
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "1e78e80c089be29fd5d88e8408b13dd561f34d237d17a74c4de08c56c86b724a"
+    },
+    {
+      "page_id": "f035-L",
+      "role": "later-handwritten-number",
+      "text": "63",
+      "bbox_face_local": [
+        372,
+        624,
+        403,
+        656
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "1e78e80c089be29fd5d88e8408b13dd561f34d237d17a74c4de08c56c86b724a"
+    },
+    {
+      "page_id": "f036-R",
+      "role": "later-handwritten-number",
+      "text": "64",
+      "bbox_face_local": [
+        55,
+        330,
+        85,
+        363
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "a50025933c2171060ac6e0079ae113274b30529435bf9bb9adfc78f756ad3ab7"
+    },
+    {
+      "page_id": "f036-R",
+      "role": "later-handwritten-number",
+      "text": "66",
+      "bbox_face_local": [
+        392,
+        378,
+        424,
+        412
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "a50025933c2171060ac6e0079ae113274b30529435bf9bb9adfc78f756ad3ab7"
+    },
+    {
+      "page_id": "f036-R",
+      "role": "later-handwritten-number",
+      "text": "68",
+      "bbox_face_local": [
+        41,
+        473,
+        69,
+        505
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "a50025933c2171060ac6e0079ae113274b30529435bf9bb9adfc78f756ad3ab7"
+    },
+    {
+      "page_id": "f036-R",
+      "role": "later-handwritten-number",
+      "text": "69",
+      "bbox_face_local": [
+        181,
+        577,
+        214,
+        609
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "a50025933c2171060ac6e0079ae113274b30529435bf9bb9adfc78f756ad3ab7"
+    },
+    {
+      "page_id": "f036-R",
+      "role": "later-handwritten-number",
+      "text": "70",
+      "bbox_face_local": [
+        79,
+        709,
+        113,
+        741
+      ],
+      "attribution": "later manuscript/library marking, not original print",
+      "source_face_sha256": "a50025933c2171060ac6e0079ae113274b30529435bf9bb9adfc78f756ad3ab7"
+    }
+  ],
+  "not_in_faithful_printed_text": true,
+  "reading_status": "AI source reading, not human verification"
+}

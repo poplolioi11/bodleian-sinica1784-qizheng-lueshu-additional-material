@@ -1,59 +1,891 @@
 {
-  "scope": "60additional/unverified physicalfaces plus91-face guide with31shared-content references",
-  "faces": 60,
-  "units": 617,
-  "serialized_codepoints_including_navigation_markers": 10001,
-  "uncertainty_records": 80,
-  "gaiji_occurrences": 15,
-  "small_note_parent_links": 2,
-  "original11batch_strings_unchanged": true,
-  "json_txt_tei_unit_strings_order": "passed",
-  "tei_p5_4_12_0_relaxng": "passed",
-  "cff_1_2_0_schema": "passed",
-  "private_annotations": {
-    "exit_code": 3,
-    "status": "incomplete",
-    "events": 80,
-    "pending_types": {
-      "unknown-model": 617
-    },
-    "not_full_traceability": true
-  },
-  "text_publication_gate": "allowed-as-recorded; not legal certification",
-  "independent_reading_applied": false,
-  "human_full_collation": false,
-  "expert_review": false,
-  "accuracy_measured": false,
-  "negative_checks": [
+  "schema": "text-package-validation/1",
+  "version": "0.2.0",
+  "status": "passed",
+  "source_faces": 60,
+  "historical_units": 617,
+  "changed_units": 140,
+  "comparison_hunks": 383,
+  "uncertainty_records": 127,
+  "gaiji": 14,
+  "small_notes": 2,
+  "table_units": 34,
+  "later_mark_records": 10,
+  "checks": [
     {
-      "case": "changed-character",
-      "rejected": true
+      "check": "all617-source-adjudicated-IDs-literal-strings-order",
+      "passed": true,
+      "evidence": {
+        "faces": 60,
+        "units": 617,
+        "codepoints_including_markers": 9984
+      }
     },
     {
-      "case": "missing-unit",
-      "rejected": true
+      "check": "TXT-page-header-f007-L",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "swapped-unit-order",
-      "rejected": true
+      "check": "TXT-unit-count-f007-L",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "source-hash-change",
-      "rejected": true
+      "check": "TXT-page-header-f008-R",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "duplicate-unit-id",
-      "rejected": true
+      "check": "TXT-unit-count-f008-R",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "uncertainty-offset-change",
-      "rejected": true
+      "check": "TXT-page-header-f008-L",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "external-DTD",
-      "rejected": true
+      "check": "TXT-unit-count-f008-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f009-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f009-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f009-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f009-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f010-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f010-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f010-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f010-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f011-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f011-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f021-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f021-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f022-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f022-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f022-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f022-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f023-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f023-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f023-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f023-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f024-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f024-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f024-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f024-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f025-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f025-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f025-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f025-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f026-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f026-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f026-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f026-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f027-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f027-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f027-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f027-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f028-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f028-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f028-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f028-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f029-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f029-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f029-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f029-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f030-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f030-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f030-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f030-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f031-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f031-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f031-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f031-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f032-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f032-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f032-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f032-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f033-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f033-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f033-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f033-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f034-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f034-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f034-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f034-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f035-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f035-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f035-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f035-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f036-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f036-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f036-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f036-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f037-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f037-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f037-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f037-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f038-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f038-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f038-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f038-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f039-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f039-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f039-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f039-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f040-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f040-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f040-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f040-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f041-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f041-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f041-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f041-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f042-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f042-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f042-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f042-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f043-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f043-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f043-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f043-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f044-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f044-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f044-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f044-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f045-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f045-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f045-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f045-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f046-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f046-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f046-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f046-L",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-page-header-f047-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-unit-count-f047-R",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "TXT-parsed617unit-string-roundtrip",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "official-TEI-P5-4.12.0-RNG",
+      "passed": true,
+      "evidence": {
+        "schema_sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
+        "error": ""
+      }
+    },
+    {
+      "check": "TEI-all617-string-and-ID-roundtrip",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "common617-strings-and-ID-equal-master",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "common-adapter-export-roundtrip-officialP5",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "CFF-official-schema-hash",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "official-full-CFF1.2.0-Draft7-with-FormatChecker",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "check": "one-canonical-creator-and-ORCID",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "version-title-English-abstract-synchronization",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "standard-CC-BY4.0-and-bilingual-book-first-metadata",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "no-fake-versionDOI-or-empty-identifiers",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all127-exact-codepoint-uncertainty-spans",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all14-gaiji-exact-registry-and-questions",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "two-original-small-notes-current-parent-phrase-anchors",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all34-source-table-units-no-recalculation",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "ten-later-marks-separate-from-original-print",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "91face-guide60text31-reference-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "actual-delivery-and-historical-context-structure",
+      "passed": true,
+      "evidence": {
+        "unresolved_metadata_and_encoding_remain": true,
+        "quality_certified": false
+      }
+    },
+    {
+      "check": "actual-formalannotations-only-unknown-model617",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "fresh-fixed-v020-text-publication-purpose-gate",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "original-initial617-and-independent628-bytes-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all11initial-raw-batches-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "independent-sealed63files-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all-published-initial-v010-files-byte-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all90actual-nonblind-view-file-hashes",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "no-lost-original-date-events",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-RIGHTS.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-LICENSE.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-gaiji.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-CHANGELOG.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-book.tei.xml",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-KEYWORDS.txt",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-CITATION.cff",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-LATER-MARKS.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-book.txt",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-book.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-METADATA.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-PROVENANCE.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-QUALITY.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-TABLES.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-README.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-TRANSCRIPTION-POLICY.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-METHODS.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-READING-MAP.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-COVERAGE.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-CHANGES.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-ABSTRACTS.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-SOURCE-MAP.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-uncertainties.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "public-privacy-scan-READING-GUIDE.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "exact24public-prevalidation-files-no-images-code-prompts",
+      "passed": true,
+      "evidence": null
     }
   ],
-  "public_allowlist": "passed",
-  "remote_publication_performed": false
+  "annotations_status": "incomplete: unknown-model617 only; actual model/effort/tokens/cash unknown, not zero",
+  "text_publication_gate": "allowed-as-recorded, not legal certification",
+  "source_reading_accuracy_certified": false,
+  "human_full_double_collation": false,
+  "expert_review": false
 }

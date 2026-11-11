@@ -1,0 +1,244 @@
+{
+  "literal_source_units": [
+    {
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u008",
+      "role": "table-row",
+      "text": "一進上年底所存銀七百一十七圓零三毫",
+      "order": 8
+    },
+    {
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u009",
+      "role": "table-row",
+      "text": "一進各簽助銀一千九百一十圓零六毫四",
+      "order": 9
+    },
+    {
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u010",
+      "role": "table-row",
+      "text": "一進利息銀四十七圓零二毫六",
+      "order": 10
+    },
+    {
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u011",
+      "role": "table-total",
+      "text": "三款共進銀二千六百七十五圓零二毫",
+      "order": 11
+    },
+    {
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u012",
+      "role": "table-row",
+      "text": "一是年共支去銀一千八百二十五圓",
+      "order": 12
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u001",
+      "role": "table-row",
+      "text": "一除支外尚剩銀八百六十圓零二毫",
+      "order": 1
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u004",
+      "role": "table-row",
+      "text": "一羊城博濟醫局是年每逢禮拜一禮拜五自局外來醫者男人合共一萬五",
+      "order": 4
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u005",
+      "role": "table-continuation",
+      "text": "千零一十三名女人合共五千四百八十五名",
+      "order": 5
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u006",
+      "role": "table-total",
+      "text": "二款合共二萬零四百九十八名",
+      "order": 6
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u007",
+      "role": "table-row",
+      "text": "另寓局內就醫者男人共六百七十二名女人共三百五十四名",
+      "order": 7
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u008",
+      "role": "table-total",
+      "text": "二款合共一千零二十六名",
+      "order": 8
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u009",
+      "role": "table-row",
+      "text": "所有大小割症共八百八十四名",
+      "order": 9
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u010",
+      "role": "table-row",
+      "text": "所有種洋痘共二百六十六名",
+      "order": 10
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u011",
+      "role": "table-row",
+      "text": "一虎門花牧師代會施醫是年每逢醫期合共醫男女三千四百二十八名",
+      "order": 11
+    },
+    {
+      "page_id": "f008-R",
+      "unit_id": "f008-R-u012",
+      "role": "table-row",
+      "text": "大小割症共二百零八名",
+      "order": 12
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u001",
+      "role": "table-row",
+      "text": "一博羅振全先生代會施醫是年每逢醫期合共醫男女六千四百五十六名",
+      "order": 1
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u002",
+      "role": "table-row",
+      "text": "大小割症共九十四名",
+      "order": 2
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u003",
+      "role": "table-row",
+      "text": "一肇慶黃母先生代會施醫是年每逢醫期合共醫男女九百七十八名種",
+      "order": 3
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u004",
+      "role": "table-continuation",
+      "text": "洋痘共一百三十五名",
+      "order": 4
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u005",
+      "role": "table-total",
+      "text": "總共醫症二萬一千三百六十名",
+      "order": 5
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u006",
+      "role": "table-total",
+      "text": "總共種洋痘四百零一名",
+      "order": 6
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u007",
+      "role": "table-total",
+      "text": "總共大小割症一千一百八十六名",
+      "order": 7
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-u011",
+      "role": "table-row",
+      "text": "一博濟醫局是年共進旗昌行來銀一千八百一十五圓",
+      "order": 11
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-u012",
+      "role": "table-row",
+      "text": "一是年本醫局共採買藥料並各工銀及保險燕梳合共用去銀九百九十九",
+      "order": 12
+    },
+    {
+      "page_id": "f009-L",
+      "unit_id": "f009-L-u001",
+      "role": "table-continuation",
+      "text": "圓零一毫三",
+      "order": 1
+    },
+    {
+      "page_id": "f009-L",
+      "unit_id": "f009-L-u002",
+      "role": "table-row",
+      "text": "一補支刻西醫書釋板銀五十圓",
+      "order": 2
+    },
+    {
+      "page_id": "f009-L",
+      "unit_id": "f009-L-u003",
+      "role": "table-row",
+      "text": "一支博羅惠愛醫館振全先生是年俸金銀一百二十六圓",
+      "order": 3
+    },
+    {
+      "page_id": "f009-L",
+      "unit_id": "f009-L-u004",
+      "role": "table-row",
+      "text": "一支醫局內新建住房二間銀六百圓",
+      "order": 4
+    },
+    {
+      "page_id": "f009-L",
+      "unit_id": "f009-L-u005",
+      "role": "table-total",
+      "text": "總共用去銀一千七百七十五圓",
+      "order": 5
+    },
+    {
+      "page_id": "f009-L",
+      "unit_id": "f009-L-u006",
+      "role": "table-row",
+      "text": "除支各款外尚存銀三十九圓零八毫七",
+      "order": 6
+    },
+    {
+      "page_id": "f009-L",
+      "unit_id": "f009-L-u009",
+      "role": "table-row",
+      "text": "應給工料銀一百五十圓一拆去舊房新建住房二間應給銀四百圓",
+      "order": 9
+    },
+    {
+      "page_id": "f009-L",
+      "unit_id": "f009-L-u010",
+      "role": "table-row",
+      "text": "一續刻化學初階卷三應給銀二百圓",
+      "order": 10
+    },
+    {
+      "page_id": "f010-R",
+      "unit_id": "f010-R-u001",
+      "role": "table-row",
+      "text": "藥料人工燕梳等項應給銀一千二百二十五圓惟遇大修屋宇不在此內",
+      "order": 1
+    },
+    {
+      "page_id": "f010-R",
+      "unit_id": "f010-R-u002",
+      "role": "table-row",
+      "text": "另肇慶醫館一載之內應給各項銀一百圓",
+      "order": 2
+    }
+  ],
+  "no_totals_recomputed": true,
+  "not_a_financial_reconciliation": true
+}
