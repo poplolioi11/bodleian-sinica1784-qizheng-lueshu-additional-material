@@ -1,9 +1,9 @@
-# 分層權利
+# 分層權利與來源
 
-歷史原文與十九世紀原版：整理者不對歷史文字或事實另主張新增排他限制；不同版本及地區權利仍須各自核實。
+歷史原文：以[Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)標示；不主張對19世紀原文新增專有權利。此標示不替讀者作全球法律認證。
 
-自有說明、資料編排與文件採[CC BY4.0](https://creativecommons.org/licenses/by/4.0/)，標準代碼cc-by-4.0，署名Chu, Chen-Yu。事實或不受著作權保護內容不因標記而新增權利。
+自有說明、資料整理說明與編輯文字：採[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，署名Chu, Chen-Yu。
 
-館方來源影像標示Photo © Bodleian Libraries, University of Oxford／CC BY-NC4.0。本包沒有來源影像或裁片；此條件是排除影像的來源告知，沒有標成整包文字的NC或In Copyright。來源署名Sinica 1784, Image: Bodleian Libraries, University of Oxford。
+館方掃描與裁片：不包含於本公開包。影像來源署名為Sinica 1784, Photo: © Bodleian Libraries, University of Oxford。館方manifest列[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)及[使用條款](https://digital.bodleian.ox.ac.uk/terms/)；本次來源影像處理為非商業學術用途。這些影像條款不列成本資料集自有說明的授權。
 
-[原件](https://digital.bodleian.ox.ac.uk/objects/75495a4f-25ed-4a47-a505-b857f862bb74/)、[館方條款](https://digital.bodleian.ox.ac.uk/terms/)。逐書用途評估與工具檢查不是法律認證，無館方共同製作或背書。
+[原件](https://digital.bodleian.ox.ac.uk/objects/75495a4f-25ed-4a47-a505-b857f862bb74/)；[IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/75495a4f-25ed-4a47-a505-b857f862bb74.json)。公開檔僅文字、來源定位與必要說明；專用方法、提示、影像及私人完整紀錄不公開。

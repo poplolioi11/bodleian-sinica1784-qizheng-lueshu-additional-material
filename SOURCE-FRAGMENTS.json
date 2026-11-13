@@ -1,0 +1,1054 @@
+{
+  "records": [
+    {
+      "page_id": "f003-L",
+      "unit": {
+        "id": "f003-L-u009",
+        "text": "奇症略述",
+        "role": "binding-edge-fragment",
+        "order": 9,
+        "layer": "fragment",
+        "bbox": [
+          56,
+          217,
+          77,
+          346
+        ],
+        "mother_bbox": [
+          56,
+          217,
+          77,
+          346
+        ]
+      },
+      "source_face_sha256": "e86976e88ef55f61ce20bdc2004bbdf6139aa458cdd413ea0a7713609625bdb8",
+      "primary_source_sha256": "432d63d887311068abcab701d1e874b8a85687cb58b6609769ff00b641809a9c"
+    },
+    {
+      "page_id": "f004-R",
+      "unit": {
+        "id": "f004-R-u008",
+        "text": "奇症畧述",
+        "role": "binding-edge-fragment",
+        "order": 8,
+        "supplemental_source_refs": [
+          {
+            "tile_id": "reader-a-roi-16-tile01",
+            "parent_roi_id": "reader-a-roi-16",
+            "sha256": "f0ee5f803a12263cc1173a501504f230ddfecc8c6f304a10e94daa86bdc920dc",
+            "actual_dimensions": [
+              213,
+              168
+            ],
+            "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/54cbc99d-b8ed-4d74-b557-757b48581778/4859,1445,213,168/full/0/default.jpg",
+            "iiif_image_id": "54cbc99d-b8ed-4d74-b557-757b48581778",
+            "original_region_xywh": [
+              4859,
+              1445,
+              213,
+              168
+            ],
+            "parent_primary_bbox": [
+              898,
+              267,
+              937,
+              325
+            ],
+            "parent_local_xywh": [
+              0,
+              0,
+              213,
+              168
+            ],
+            "new_corrected_target": false,
+            "exact_output_pixel_mapping_certified": false,
+            "actual_output_dimensions_match_requested_tile": true,
+            "policy_manifest_sha256": "4da6ab75a17e8c64b63155db6cf01c18e95e12001872a06496bb96faa5a544c0",
+            "policy_status": "crop and cloud-recognition allowed-as-recorded per root readback",
+            "actual_view_tool": "functions.view_image"
+          },
+          {
+            "tile_id": "reader-a-roi-16-tile02",
+            "parent_roi_id": "reader-a-roi-16",
+            "sha256": "41dbf1c810cf6db6afc5fabf6d6819931432b656aadf98dfe61a0e8f7dc5fea9",
+            "actual_dimensions": [
+              213,
+              167
+            ],
+            "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/54cbc99d-b8ed-4d74-b557-757b48581778/4859,1593,213,167/full/0/default.jpg",
+            "iiif_image_id": "54cbc99d-b8ed-4d74-b557-757b48581778",
+            "original_region_xywh": [
+              4859,
+              1593,
+              213,
+              167
+            ],
+            "parent_primary_bbox": [
+              898,
+              267,
+              937,
+              325
+            ],
+            "parent_local_xywh": [
+              0,
+              148,
+              213,
+              167
+            ],
+            "new_corrected_target": false,
+            "exact_output_pixel_mapping_certified": false,
+            "actual_output_dimensions_match_requested_tile": true,
+            "policy_manifest_sha256": "4da6ab75a17e8c64b63155db6cf01c18e95e12001872a06496bb96faa5a544c0",
+            "policy_status": "crop and cloud-recognition allowed-as-recorded per root readback",
+            "actual_view_tool": "functions.view_image"
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          404,
+          212,
+          429,
+          338
+        ],
+        "mother_bbox": [
+          904,
+          212,
+          929,
+          338
+        ]
+      },
+      "source_face_sha256": "0c46af18923432e70912dda7694a8b761bdd6fa9b154956135f960ffc66bd2ad",
+      "primary_source_sha256": "287050c1bfc5b547497826dd4d740ddf7b3576ae3ed7f7e7d1ee3b9ac2e782ee"
+    },
+    {
+      "page_id": "f004-L",
+      "unit": {
+        "id": "f004-L-u009",
+        "text": "□",
+        "role": "binding-edge-fragment",
+        "order": 9,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "已完整視閱所指定截邊區；字形超出照片可見範圍或被頁邊遮擋，現有影像不足辨認。未見證據證明紙張實體毀損，缺字數未知。",
+            "extent": "unknown",
+            "subcause": "photo-or-exposure-cutoff; physical-loss-not-established"
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          65,
+          217,
+          84,
+          741
+        ],
+        "mother_bbox": [
+          65,
+          217,
+          84,
+          741
+        ]
+      },
+      "source_face_sha256": "02a87f10ccebeba75d1c3eaeaab564a1fabed5bf2e2d2be94e2b4a3eba52ed93",
+      "primary_source_sha256": "287050c1bfc5b547497826dd4d740ddf7b3576ae3ed7f7e7d1ee3b9ac2e782ee"
+    },
+    {
+      "page_id": "f005-L",
+      "unit": {
+        "id": "f005-L-u009",
+        "text": "奇症略述",
+        "role": "binding-edge-fragment",
+        "order": 9,
+        "layer": "fragment",
+        "bbox": [
+          67,
+          217,
+          86,
+          344
+        ],
+        "mother_bbox": [
+          67,
+          217,
+          86,
+          344
+        ]
+      },
+      "source_face_sha256": "a1806471201caae5d428733d7244639420c6102c39087001f2685d3b83971194",
+      "primary_source_sha256": "3de42cd35a953830021cf4dbebe3a0e9f64e378b3c78c46e8ed65279235b28f3"
+    },
+    {
+      "page_id": "f005-L",
+      "unit": {
+        "id": "f005-L-u010",
+        "text": "序",
+        "role": "binding-edge-fragment",
+        "order": 10,
+        "layer": "fragment",
+        "bbox": [
+          67,
+          376,
+          83,
+          409
+        ],
+        "mother_bbox": [
+          67,
+          376,
+          83,
+          409
+        ]
+      },
+      "source_face_sha256": "a1806471201caae5d428733d7244639420c6102c39087001f2685d3b83971194",
+      "primary_source_sha256": "3de42cd35a953830021cf4dbebe3a0e9f64e378b3c78c46e8ed65279235b28f3"
+    },
+    {
+      "page_id": "f005-L",
+      "unit": {
+        "id": "f005-L-u011",
+        "text": "二",
+        "role": "binding-edge-fragment",
+        "order": 11,
+        "layer": "fragment",
+        "bbox": [
+          67,
+          690,
+          80,
+          715
+        ],
+        "mother_bbox": [
+          67,
+          690,
+          80,
+          715
+        ]
+      },
+      "source_face_sha256": "a1806471201caae5d428733d7244639420c6102c39087001f2685d3b83971194",
+      "primary_source_sha256": "3de42cd35a953830021cf4dbebe3a0e9f64e378b3c78c46e8ed65279235b28f3"
+    },
+    {
+      "page_id": "f006-L",
+      "unit": {
+        "id": "f006-L-u009",
+        "text": "奇症略述",
+        "role": "binding-edge-fragment",
+        "order": 9,
+        "layer": "fragment",
+        "bbox": [
+          64,
+          224,
+          85,
+          350
+        ],
+        "mother_bbox": [
+          64,
+          224,
+          85,
+          350
+        ]
+      },
+      "source_face_sha256": "03475be775bde447f7bee5c4907843eac528f6f72095a5bb0757d89266d8af16",
+      "primary_source_sha256": "847bf448b423671bad508876bafb8d277844668ad01c8e352b56f3ad7bc47794"
+    },
+    {
+      "page_id": "f006-L",
+      "unit": {
+        "id": "f006-L-u010",
+        "text": "序",
+        "role": "binding-edge-fragment",
+        "order": 10,
+        "layer": "fragment",
+        "bbox": [
+          65,
+          384,
+          83,
+          414
+        ],
+        "mother_bbox": [
+          65,
+          384,
+          83,
+          414
+        ]
+      },
+      "source_face_sha256": "03475be775bde447f7bee5c4907843eac528f6f72095a5bb0757d89266d8af16",
+      "primary_source_sha256": "847bf448b423671bad508876bafb8d277844668ad01c8e352b56f3ad7bc47794"
+    },
+    {
+      "page_id": "f006-L",
+      "unit": {
+        "id": "f006-L-u011",
+        "text": "三",
+        "role": "binding-edge-fragment",
+        "order": 11,
+        "layer": "fragment",
+        "bbox": [
+          64,
+          701,
+          85,
+          733
+        ],
+        "mother_bbox": [
+          64,
+          701,
+          85,
+          733
+        ]
+      },
+      "source_face_sha256": "03475be775bde447f7bee5c4907843eac528f6f72095a5bb0757d89266d8af16",
+      "primary_source_sha256": "847bf448b423671bad508876bafb8d277844668ad01c8e352b56f3ad7bc47794"
+    },
+    {
+      "page_id": "f011-L",
+      "unit": {
+        "id": "f011-L-u015",
+        "text": "奇症略述",
+        "role": "binding-edge-fragment",
+        "order": 15,
+        "layer": "fragment",
+        "bbox": [
+          74,
+          238,
+          95,
+          359
+        ],
+        "mother_bbox": [
+          74,
+          238,
+          95,
+          359
+        ]
+      },
+      "source_face_sha256": "ba1d80565cbafe37879c8430451ef00f4aa12b6f7fa0ae68a5028bc66f7dfeb5",
+      "primary_source_sha256": "648c7a9979599f6aba3f04fd51779f13af7ceb1c16e12f0c45dabc42f030f5eb"
+    },
+    {
+      "page_id": "f011-L",
+      "unit": {
+        "id": "f011-L-u016",
+        "text": "□",
+        "role": "binding-edge-fragment",
+        "order": 16,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "已完整視閱所指定截邊區；字形超出照片可見範圍或被頁邊遮擋，現有影像不足辨認。未見證據證明紙張實體毀損，缺字數未知。",
+            "extent": "unknown",
+            "subcause": "photo-or-exposure-cutoff; physical-loss-not-established"
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          73,
+          695,
+          94,
+          732
+        ],
+        "mother_bbox": [
+          73,
+          695,
+          94,
+          732
+        ]
+      },
+      "source_face_sha256": "ba1d80565cbafe37879c8430451ef00f4aa12b6f7fa0ae68a5028bc66f7dfeb5",
+      "primary_source_sha256": "648c7a9979599f6aba3f04fd51779f13af7ceb1c16e12f0c45dabc42f030f5eb"
+    },
+    {
+      "page_id": "f012-R",
+      "unit": {
+        "id": "f012-R-u018",
+        "text": "奇症略述",
+        "role": "binding-edge-fragment",
+        "order": 18,
+        "layer": "fragment",
+        "bbox": [
+          409,
+          230,
+          428,
+          356
+        ],
+        "mother_bbox": [
+          909,
+          230,
+          928,
+          356
+        ]
+      },
+      "source_face_sha256": "b4a8f31610e281e098d87659a6d83911671b23284fa1208b0d2514eb8da5d6fb",
+      "primary_source_sha256": "2614e596c3946634850247b94b0ea37996673912da2197faa42cc890783c0fc3"
+    },
+    {
+      "page_id": "f012-R",
+      "unit": {
+        "id": "f012-R-u019",
+        "text": "五",
+        "role": "binding-edge-fragment",
+        "order": 19,
+        "layer": "fragment",
+        "bbox": [
+          404,
+          702,
+          425,
+          725
+        ],
+        "mother_bbox": [
+          904,
+          702,
+          925,
+          725
+        ]
+      },
+      "source_face_sha256": "b4a8f31610e281e098d87659a6d83911671b23284fa1208b0d2514eb8da5d6fb",
+      "primary_source_sha256": "2614e596c3946634850247b94b0ea37996673912da2197faa42cc890783c0fc3"
+    },
+    {
+      "page_id": "f013-R",
+      "unit": {
+        "id": "f013-R-u009",
+        "text": "□",
+        "role": "unassigned-edge-fragment",
+        "order": 9,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "已完整視閱所指定截邊區；字形超出照片可見範圍或被頁邊遮擋，現有影像不足辨認。未見證據證明紙張實體毀損，缺字數未知。",
+            "extent": "unknown",
+            "subcause": "photo-or-exposure-cutoff; physical-loss-not-established"
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          416,
+          217,
+          432,
+          727
+        ],
+        "mother_bbox": [
+          916,
+          217,
+          932,
+          727
+        ]
+      },
+      "source_face_sha256": "0a6f02858facc27550bfaf01e9ed518cbb99e8152a60be84bce8561aa9ed42b8",
+      "primary_source_sha256": "e3bea5bbae0dab7ad4b9b159d73157f73b1c3007e571693812901752b71560a8"
+    },
+    {
+      "page_id": "f013-L",
+      "unit": {
+        "id": "f013-L-u017",
+        "text": "奇症略述",
+        "role": "binding-edge-fragment",
+        "order": 17,
+        "layer": "fragment",
+        "bbox": [
+          72,
+          245,
+          92,
+          366
+        ],
+        "mother_bbox": [
+          72,
+          245,
+          92,
+          366
+        ]
+      },
+      "source_face_sha256": "2f33b5002b5b8cc9a86e16201d020b093996b8c2e6f6e27517d2d2f135a38651",
+      "primary_source_sha256": "e3bea5bbae0dab7ad4b9b159d73157f73b1c3007e571693812901752b71560a8"
+    },
+    {
+      "page_id": "f013-L",
+      "unit": {
+        "id": "f013-L-u018",
+        "text": "七",
+        "role": "binding-edge-fragment",
+        "order": 18,
+        "layer": "fragment",
+        "bbox": [
+          73,
+          706,
+          90,
+          737
+        ],
+        "mother_bbox": [
+          73,
+          706,
+          90,
+          737
+        ]
+      },
+      "source_face_sha256": "2f33b5002b5b8cc9a86e16201d020b093996b8c2e6f6e27517d2d2f135a38651",
+      "primary_source_sha256": "e3bea5bbae0dab7ad4b9b159d73157f73b1c3007e571693812901752b71560a8"
+    },
+    {
+      "page_id": "f014-R",
+      "unit": {
+        "id": "f014-R-u016",
+        "text": "奇症略述",
+        "role": "binding-edge-fragment",
+        "order": 16,
+        "layer": "fragment",
+        "bbox": [
+          415,
+          242,
+          437,
+          369
+        ],
+        "mother_bbox": [
+          915,
+          242,
+          937,
+          369
+        ]
+      },
+      "source_face_sha256": "a82e6035230be090ca4f8088872c7b2cf5ea3c1c98240fe9823c62b9f5fe207e",
+      "primary_source_sha256": "c5791c91646ca23129ecf234f5e801df8f52345d0378a87669af25b11515a524"
+    },
+    {
+      "page_id": "f014-R",
+      "unit": {
+        "id": "f014-R-u017",
+        "text": "七",
+        "role": "binding-edge-fragment",
+        "order": 17,
+        "layer": "fragment",
+        "bbox": [
+          412,
+          708,
+          435,
+          737
+        ],
+        "mother_bbox": [
+          912,
+          708,
+          935,
+          737
+        ]
+      },
+      "source_face_sha256": "a82e6035230be090ca4f8088872c7b2cf5ea3c1c98240fe9823c62b9f5fe207e",
+      "primary_source_sha256": "c5791c91646ca23129ecf234f5e801df8f52345d0378a87669af25b11515a524"
+    },
+    {
+      "page_id": "f014-L",
+      "unit": {
+        "id": "f014-L-u018",
+        "text": "奇症略述",
+        "role": "binding-edge-fragment",
+        "order": 18,
+        "layer": "fragment",
+        "bbox": [
+          81,
+          242,
+          99,
+          367
+        ],
+        "mother_bbox": [
+          81,
+          242,
+          99,
+          367
+        ]
+      },
+      "source_face_sha256": "86f632e4f3f26417cb8aae04127070163721a75785ff72482749f7ff171cd3cf",
+      "primary_source_sha256": "c5791c91646ca23129ecf234f5e801df8f52345d0378a87669af25b11515a524"
+    },
+    {
+      "page_id": "f014-L",
+      "unit": {
+        "id": "f014-L-u019",
+        "text": "八",
+        "role": "binding-edge-fragment",
+        "order": 19,
+        "layer": "fragment",
+        "bbox": [
+          82,
+          700,
+          98,
+          733
+        ],
+        "mother_bbox": [
+          82,
+          700,
+          98,
+          733
+        ]
+      },
+      "source_face_sha256": "86f632e4f3f26417cb8aae04127070163721a75785ff72482749f7ff171cd3cf",
+      "primary_source_sha256": "c5791c91646ca23129ecf234f5e801df8f52345d0378a87669af25b11515a524"
+    },
+    {
+      "page_id": "f015-R",
+      "unit": {
+        "id": "f015-R-u018",
+        "text": "□症畧述",
+        "role": "running_title_fragment",
+        "order": 18,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 1
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          409,
+          236,
+          428,
+          359
+        ],
+        "mother_bbox": [
+          909,
+          236,
+          928,
+          359
+        ]
+      },
+      "source_face_sha256": "99222e3d771e474547a2a04c0885e5e107268f4541d38311ee3616d4c8fdb24d",
+      "primary_source_sha256": "e915db62e4bc9d1be6c07a5fa816be55daf1bd84c4baebf998fdf76d072f633e"
+    },
+    {
+      "page_id": "f015-L",
+      "unit": {
+        "id": "f015-L-u018",
+        "text": "□症畧述",
+        "role": "running_title_fragment",
+        "order": 18,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "First character has faint and cut strokes at the outer margin.",
+            "extent": 1
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          68,
+          245,
+          86,
+          379
+        ],
+        "mother_bbox": [
+          68,
+          245,
+          86,
+          379
+        ]
+      },
+      "source_face_sha256": "0e83db7c41ecc8bb23507208010d4d1784f89447c1e70a1123b06cc19c9c74fa",
+      "primary_source_sha256": "e915db62e4bc9d1be6c07a5fa816be55daf1bd84c4baebf998fdf76d072f633e"
+    },
+    {
+      "page_id": "f016-R",
+      "unit": {
+        "id": "f016-R-u017",
+        "text": "□□□□",
+        "role": "running_title_fragment",
+        "order": 17,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 4
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          403,
+          242,
+          419,
+          356
+        ],
+        "mother_bbox": [
+          903,
+          242,
+          919,
+          356
+        ]
+      },
+      "source_face_sha256": "8cc5fd75f7aeac9d439e9f66d0e4774216e0b4e56909874a47d05cb88dc34c67",
+      "primary_source_sha256": "d5faa0aceb6302602c6f411b8498c08d75bf7e2afcf93b9554e80045dfb22e5a"
+    },
+    {
+      "page_id": "f016-R",
+      "unit": {
+        "id": "f016-R-u018",
+        "text": "□",
+        "role": "folio_fragment",
+        "order": 18,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 1
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          404,
+          704,
+          418,
+          735
+        ],
+        "mother_bbox": [
+          904,
+          704,
+          918,
+          735
+        ]
+      },
+      "source_face_sha256": "8cc5fd75f7aeac9d439e9f66d0e4774216e0b4e56909874a47d05cb88dc34c67",
+      "primary_source_sha256": "d5faa0aceb6302602c6f411b8498c08d75bf7e2afcf93b9554e80045dfb22e5a"
+    },
+    {
+      "page_id": "f017-R",
+      "unit": {
+        "id": "f017-R-u018",
+        "text": "□□□□",
+        "role": "running_title_fragment",
+        "order": 18,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 4
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          400,
+          242,
+          419,
+          370
+        ],
+        "mother_bbox": [
+          900,
+          242,
+          919,
+          370
+        ]
+      },
+      "source_face_sha256": "53b900841ed832112d39bc144d20033e5d77445d976f4fcb5ec7a58ee90c3bc6",
+      "primary_source_sha256": "97a221770b82273a4760a7e5b213ec7c4e46add7d64c6f7275f4a60a97bcdc28"
+    },
+    {
+      "page_id": "f017-R",
+      "unit": {
+        "id": "f017-R-u019",
+        "text": "□",
+        "role": "folio_fragment",
+        "order": 19,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 1
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          400,
+          704,
+          420,
+          740
+        ],
+        "mother_bbox": [
+          900,
+          704,
+          920,
+          740
+        ]
+      },
+      "source_face_sha256": "53b900841ed832112d39bc144d20033e5d77445d976f4fcb5ec7a58ee90c3bc6",
+      "primary_source_sha256": "97a221770b82273a4760a7e5b213ec7c4e46add7d64c6f7275f4a60a97bcdc28"
+    },
+    {
+      "page_id": "f018-R",
+      "unit": {
+        "id": "f018-R-u014",
+        "text": "□□□□",
+        "role": "running_title_fragment",
+        "order": 14,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 4
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          404,
+          242,
+          421,
+          370
+        ],
+        "mother_bbox": [
+          904,
+          242,
+          921,
+          370
+        ]
+      },
+      "source_face_sha256": "793072db339a337c4715cee981a0282aba0b823118b5f1f6ab37c6e7386fa6af",
+      "primary_source_sha256": "8932fb63548b3a25fe12e9c906a9cdec4be7d29bb5d1785400c7fdf10fe8cae9"
+    },
+    {
+      "page_id": "f018-R",
+      "unit": {
+        "id": "f018-R-u015",
+        "text": "□",
+        "role": "folio_fragment",
+        "order": 15,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 1
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          404,
+          705,
+          422,
+          743
+        ],
+        "mother_bbox": [
+          904,
+          705,
+          922,
+          743
+        ]
+      },
+      "source_face_sha256": "793072db339a337c4715cee981a0282aba0b823118b5f1f6ab37c6e7386fa6af",
+      "primary_source_sha256": "8932fb63548b3a25fe12e9c906a9cdec4be7d29bb5d1785400c7fdf10fe8cae9"
+    },
+    {
+      "page_id": "f018-L",
+      "unit": {
+        "id": "f018-L-u006",
+        "text": "□",
+        "role": "printed_edge_fragment",
+        "order": 6,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": "unknown"
+          }
+        ],
+        "layer": "fragment",
+        "bbox": null,
+        "source_location": {
+          "coordinate_system": "full-primary-canvas",
+          "bbox": [
+            490,
+            266,
+            505,
+            386
+          ],
+          "source_sha256": "8932fb63548b3a25fe12e9c906a9cdec4be7d29bb5d1785400c7fdf10fe8cae9",
+          "width": 1000,
+          "height": 1164,
+          "reason": "Not wholly inside the declared half; original mother location retained, not clamped"
+        },
+        "mother_bbox": [
+          490,
+          266,
+          505,
+          386
+        ]
+      },
+      "source_face_sha256": "a22738a209ac18dc42be5940f43da1b8d47c1785cb66f793f07682ad1987a6ba",
+      "primary_source_sha256": "8932fb63548b3a25fe12e9c906a9cdec4be7d29bb5d1785400c7fdf10fe8cae9"
+    },
+    {
+      "page_id": "f020-R",
+      "unit": {
+        "id": "f020-R-u014",
+        "text": "□",
+        "role": "running_title_fragment",
+        "order": 14,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": "unknown"
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          405,
+          240,
+          422,
+          367
+        ],
+        "mother_bbox": [
+          905,
+          240,
+          922,
+          367
+        ]
+      },
+      "source_face_sha256": "3b0a35a8d972963d305fe82a11c62f63f98c32c971c869a2f36f1e90644cdafb",
+      "primary_source_sha256": "5abe6e2300498ee24d23f6066939dc3a74b73fc2f0815477df8e20cfc0bbead6"
+    },
+    {
+      "page_id": "f020-R",
+      "unit": {
+        "id": "f020-R-u015",
+        "text": "□",
+        "role": "folio_fragment",
+        "order": 15,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 1
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          405,
+          704,
+          425,
+          745
+        ],
+        "mother_bbox": [
+          905,
+          704,
+          925,
+          745
+        ]
+      },
+      "source_face_sha256": "3b0a35a8d972963d305fe82a11c62f63f98c32c971c869a2f36f1e90644cdafb",
+      "primary_source_sha256": "5abe6e2300498ee24d23f6066939dc3a74b73fc2f0815477df8e20cfc0bbead6"
+    },
+    {
+      "page_id": "f021-R",
+      "unit": {
+        "id": "f021-R-u002",
+        "text": "□",
+        "role": "running_title_fragment",
+        "order": 2,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": "unknown"
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          404,
+          238,
+          427,
+          376
+        ],
+        "mother_bbox": [
+          904,
+          238,
+          927,
+          376
+        ]
+      },
+      "source_face_sha256": "f460e5ac8113634134e829266b46f7514fec1178e8667be4ce843702baf27f5e",
+      "primary_source_sha256": "8b02288d081b2d2f61f5f64b081153156b3dd36a7a057dc1a3e3c8f60ebec61e"
+    },
+    {
+      "page_id": "f021-R",
+      "unit": {
+        "id": "f021-R-u003",
+        "text": "□",
+        "role": "folio_fragment",
+        "order": 3,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 1
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          407,
+          706,
+          428,
+          745
+        ],
+        "mother_bbox": [
+          907,
+          706,
+          928,
+          745
+        ]
+      },
+      "source_face_sha256": "f460e5ac8113634134e829266b46f7514fec1178e8667be4ce843702baf27f5e",
+      "primary_source_sha256": "8b02288d081b2d2f61f5f64b081153156b3dd36a7a057dc1a3e3c8f60ebec61e"
+    },
+    {
+      "page_id": "f048-R",
+      "unit": {
+        "id": "f048-R-u009",
+        "text": "□症畧述",
+        "role": "running_title_fragment",
+        "order": 9,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 1
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          431,
+          241,
+          452,
+          370
+        ],
+        "mother_bbox": [
+          931,
+          241,
+          952,
+          370
+        ]
+      },
+      "source_face_sha256": "eb3993f99bb7ae1ae77f961cc10cf7259bfaf5f91181076ce1250dc1fb2526e1",
+      "primary_source_sha256": "95d6f2c0840344d2b3888677bc315d140a660cac7ad03c26d8f37af34d79d9d5"
+    },
+    {
+      "page_id": "f048-R",
+      "unit": {
+        "id": "f048-R-u010",
+        "text": "□",
+        "role": "folio_fragment",
+        "order": 10,
+        "gaps": [
+          {
+            "cause": "image-insufficient",
+            "reason": "照片邊緣或中縫僅保留部分印字筆畫，影像不足；未親見紙張物理損毀，不推定紙本缺字。",
+            "extent": 1
+          }
+        ],
+        "layer": "fragment",
+        "bbox": [
+          432,
+          705,
+          452,
+          746
+        ],
+        "mother_bbox": [
+          932,
+          705,
+          952,
+          746
+        ]
+      },
+      "source_face_sha256": "eb3993f99bb7ae1ae77f961cc10cf7259bfaf5f91181076ce1250dc1fb2526e1",
+      "primary_source_sha256": "95d6f2c0840344d2b3888677bc315d140a660cac7ad03c26d8f37af34d79d9d5"
+    }
+  ],
+  "not_continuous_author_prose": true
+}

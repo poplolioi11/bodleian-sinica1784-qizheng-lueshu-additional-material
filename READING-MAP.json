@@ -18,8 +18,860 @@
       "parent_unit_id": "f008-L-u007",
       "status": "continuation of adjacent small-print note",
       "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f005-L",
+      "unit_id": "f005-L-u012",
+      "text": "余",
+      "parent_unit_id": "f005-L-u003",
+      "status": "confirmed-visible-order-from-native-ROI",
+      "anchors": {
+        "before": {
+          "source_surface": "等",
+          "codepoint_range": [
+            4,
+            5
+          ]
+        },
+        "after": {
+          "source_surface": "悉爲",
+          "codepoint_range": [
+            5,
+            7
+          ]
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 5,
+        "status": "confirmed-visible-order-from-native-ROI"
+      },
+      "exact_insertion_point_asserted": true,
+      "root_source_anchor_accepted": true
+    },
+    {
+      "page_id": "f006-R",
+      "unit_id": "f006-R-u012",
+      "text": "余",
+      "parent_unit_id": "f006-R-u007",
+      "status": "confirmed-visible-order-from-native-ROI",
+      "anchors": {
+        "before": {
+          "source_surface": "年",
+          "codepoint_range": [
+            1,
+            2
+          ]
+        },
+        "after": {
+          "source_surface": "因",
+          "codepoint_range": [
+            2,
+            3
+          ]
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 2,
+        "status": "confirmed-visible-order-from-native-ROI"
+      },
+      "exact_insertion_point_asserted": true,
+      "root_source_anchor_accepted": true
+    },
+    {
+      "page_id": "f006-L",
+      "unit_id": "f006-L-u012",
+      "text": "余",
+      "parent_unit_id": "f006-L-u007",
+      "status": "confirmed-visible-order-from-native-ROI",
+      "anchors": {
+        "before": {
+          "source_surface": "現",
+          "codepoint_range": [
+            15,
+            16
+          ]
+        },
+        "after": {
+          "source_surface": "在廣",
+          "codepoint_range": [
+            16,
+            18
+          ]
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 16,
+        "status": "confirmed-visible-order-from-native-ROI"
+      },
+      "exact_insertion_point_asserted": true,
+      "root_source_anchor_accepted": true
+    },
+    {
+      "page_id": "f007-R",
+      "unit_id": "f007-R-u013",
+      "text": "余",
+      "parent_unit_id": "f007-R-u002",
+      "status": "confirmed-visible-order-from-native-ROI",
+      "anchors": {
+        "before": {
+          "source_surface": "者",
+          "codepoint_range": [
+            13,
+            14
+          ]
+        },
+        "after": {
+          "source_surface": "必",
+          "codepoint_range": [
+            14,
+            15
+          ]
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 14,
+        "status": "confirmed-visible-order-from-native-ROI"
+      },
+      "exact_insertion_point_asserted": true,
+      "root_source_anchor_accepted": true
+    },
+    {
+      "page_id": "f011-L",
+      "unit_id": "f011-L-u009",
+      "text": "第九十一",
+      "parent_unit_id": "f011-L-u008",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "全愈囘家",
+          "codepoint_range": [
+            0,
+            4
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 4,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f011-L",
+      "unit_id": "f011-L-u013",
+      "text": "第九十二",
+      "parent_unit_id": "f011-L-u012",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "分十八日全愈囘家",
+          "codepoint_range": [
+            19,
+            27
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 27,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u003",
+      "text": "第九十三",
+      "parent_unit_id": "f012-R-u002",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "愈囘家而去",
+          "codepoint_range": [
+            0,
+            5
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 5,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u007",
+      "text": "第九十四",
+      "parent_unit_id": "f012-R-u006",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "日全愈囘家",
+          "codepoint_range": [
+            0,
+            5
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 5,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u011",
+      "text": "第九十五",
+      "parent_unit_id": "f012-R-u010",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "全愈而去",
+          "codepoint_range": [
+            0,
+            4
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 4,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u014",
+      "text": "第九十六",
+      "parent_unit_id": "f012-R-u013",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "月廿四日全愈而去",
+          "codepoint_range": [
+            19,
+            27
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 27,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u017",
+      "text": "第九十七",
+      "parent_unit_id": "f012-R-u016",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "月十六日全愈而去",
+          "codepoint_range": [
+            19,
+            27
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 27,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u005",
+      "text": "第九十八",
+      "parent_unit_id": "f013-L-u004",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "四日始能全愈囘家",
+          "codepoint_range": [
+            19,
+            27
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 27,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u008",
+      "text": "第九十九",
+      "parent_unit_id": "f013-L-u007",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "月初六日全愈囘家",
+          "codepoint_range": [
+            20,
+            28
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 28,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u012",
+      "text": "第壹百",
+      "parent_unit_id": "f013-L-u011",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "八日全愈囘家",
+          "codepoint_range": [
+            0,
+            6
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 6,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u016",
+      "text": "第一百零一",
+      "parent_unit_id": "f013-L-u015",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "至初四日酉刻而亡",
+          "codepoint_range": [
+            6,
+            14
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 14,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f014-R",
+      "unit_id": "f014-R-u006",
+      "text": "第一百零二",
+      "parent_unit_id": "f014-R-u005",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "碗至晚上三鼓而亡",
+          "codepoint_range": [
+            10,
+            18
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 18,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f014-R",
+      "unit_id": "f014-R-u010",
+      "text": "第一百零三",
+      "parent_unit_id": "f014-R-u009",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "月初二日全愈囘家",
+          "codepoint_range": [
+            1,
+            9
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 9,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f014-R",
+      "unit_id": "f014-R-u013",
+      "text": "第一百零四",
+      "parent_unit_id": "f014-R-u012",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "月廿八日全愈而去",
+          "codepoint_range": [
+            19,
+            27
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 27,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u002",
+      "text": "第一百零五",
+      "parent_unit_id": "f014-L-u001",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "月廿九日全愈而去",
+          "codepoint_range": [
+            1,
+            9
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 9,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u005",
+      "text": "第一百零六",
+      "parent_unit_id": "f014-L-u004",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "十月廿一日愈而去",
+          "codepoint_range": [
+            20,
+            28
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 28,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u009",
+      "text": "第一百零七",
+      "parent_unit_id": "f014-L-u008",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "月廿四日全愈而去",
+          "codepoint_range": [
+            5,
+            13
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 13,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u012",
+      "text": "第一百零八",
+      "parent_unit_id": "f014-L-u011",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "月廿八日全愈而去",
+          "codepoint_range": [
+            17,
+            25
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 25,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u015",
+      "text": "第一百零九",
+      "parent_unit_id": "f014-L-u014",
+      "status": "visible-column-end",
+      "anchors": {
+        "before": {
+          "source_surface": "一月十八日愈而去",
+          "codepoint_range": [
+            19,
+            27
+          ]
+        },
+        "after": {
+          "source_surface": null,
+          "position": "no subsequent body text in same column"
+        }
+      },
+      "anchor": null,
+      "reading_position": {
+        "parent_codepoint_offset": 27,
+        "status": "visible-column-end"
+      },
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-u010",
+      "text": "內死十四人",
+      "parent_unit_id": null,
+      "status": "relationship-retained-position-not-asserted",
+      "anchors": null,
+      "anchor": null,
+      "reading_position": null,
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-u011",
+      "text": "用鉗拈愈十四人",
+      "parent_unit_id": null,
+      "status": "relationship-retained-position-not-asserted",
+      "anchors": null,
+      "anchor": null,
+      "reading_position": null,
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f018-R",
+      "unit_id": "f018-R-u010",
+      "text": "其形圖列部內",
+      "parent_unit_id": null,
+      "status": "relationship-retained-position-not-asserted",
+      "anchors": null,
+      "anchor": null,
+      "reading_position": null,
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f019-L",
+      "unit_id": "f019-L-u006",
+      "text": "其形圖列部內",
+      "parent_unit_id": null,
+      "status": "relationship-retained-position-not-asserted",
+      "anchors": null,
+      "anchor": null,
+      "reading_position": null,
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f020-R",
+      "unit_id": "f020-R-u002",
+      "text": "其形圖列部內",
+      "parent_unit_id": null,
+      "status": "relationship-retained-position-not-asserted",
+      "anchors": null,
+      "anchor": null,
+      "reading_position": null,
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f020-L",
+      "unit_id": "f020-L-u017",
+      "text": "其形圖列部內",
+      "parent_unit_id": null,
+      "status": "relationship-retained-position-not-asserted",
+      "anchors": null,
+      "anchor": null,
+      "reading_position": null,
+      "exact_insertion_point_asserted": false
     }
   ],
   "all_other_figure_labels_and_captions": "Separate source units in source layout, not a continuous prose edition",
-  "continuous_reading_edition": false
+  "continuous_reading_edition": false,
+  "derived_readable_file": "READABLE-TEXT.txt",
+  "root_accepted_inserted_unit_ids": [
+    "f005-L-u012",
+    "f006-R-u012",
+    "f006-L-u012",
+    "f007-R-u013"
+  ],
+  "unresolved_insertion_positions": [
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u008",
+      "parent_unit_id": "f008-L-u007",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u009",
+      "parent_unit_id": "f008-L-u007",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f011-L",
+      "unit_id": "f011-L-u009",
+      "parent_unit_id": "f011-L-u008",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f011-L",
+      "unit_id": "f011-L-u013",
+      "parent_unit_id": "f011-L-u012",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u003",
+      "parent_unit_id": "f012-R-u002",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u007",
+      "parent_unit_id": "f012-R-u006",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u011",
+      "parent_unit_id": "f012-R-u010",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u014",
+      "parent_unit_id": "f012-R-u013",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u017",
+      "parent_unit_id": "f012-R-u016",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u005",
+      "parent_unit_id": "f013-L-u004",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u008",
+      "parent_unit_id": "f013-L-u007",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u012",
+      "parent_unit_id": "f013-L-u011",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u016",
+      "parent_unit_id": "f013-L-u015",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f014-R",
+      "unit_id": "f014-R-u006",
+      "parent_unit_id": "f014-R-u005",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f014-R",
+      "unit_id": "f014-R-u010",
+      "parent_unit_id": "f014-R-u009",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f014-R",
+      "unit_id": "f014-R-u013",
+      "parent_unit_id": "f014-R-u012",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u002",
+      "parent_unit_id": "f014-L-u001",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u005",
+      "parent_unit_id": "f014-L-u004",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u009",
+      "parent_unit_id": "f014-L-u008",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u012",
+      "parent_unit_id": "f014-L-u011",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u015",
+      "parent_unit_id": "f014-L-u014",
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-u010",
+      "parent_unit_id": null,
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-u011",
+      "parent_unit_id": null,
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f018-R",
+      "unit_id": "f018-R-u010",
+      "parent_unit_id": null,
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f019-L",
+      "unit_id": "f019-L-u006",
+      "parent_unit_id": null,
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f020-R",
+      "unit_id": "f020-R-u002",
+      "parent_unit_id": null,
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    },
+    {
+      "page_id": "f020-L",
+      "unit_id": "f020-L-u017",
+      "parent_unit_id": null,
+      "reason": "No root-accepted exact before/after source anchor and matching fixed-text offset; no insertion inferred"
+    }
+  ],
+  "faithful_strings_unchanged": true
 }

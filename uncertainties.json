@@ -2715,6 +2715,490 @@
         "declared_surface": "十六",
         "multiple_occurrences_conservatively_retained": false
       }
+    },
+    {
+      "page_id": "f005-L",
+      "unit_id": "f005-L-u011",
+      "codepoint_range": [
+        0,
+        1
+      ],
+      "candidates": [
+        "二"
+      ],
+      "reason": "邊緣僅殘橫畫可見，版心數字待高解析核",
+      "id": "f005-L-new-q001",
+      "start": 0,
+      "end": 1,
+      "surface": "二",
+      "token": "二",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f006-L",
+      "unit_id": "f006-L-u011",
+      "codepoint_range": [
+        0,
+        1
+      ],
+      "candidates": [
+        "三"
+      ],
+      "reason": "版心殘形呈三短橫但左段被裁切",
+      "id": "f006-L-new-q002",
+      "start": 0,
+      "end": 1,
+      "surface": "三",
+      "token": "三",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f013-R",
+      "unit_id": "f013-R-u007",
+      "codepoint_range": [
+        0,
+        1
+      ],
+      "candidates": [
+        "9",
+        "3"
+      ],
+      "reason": "僅見兩個數字形，前形上端開口、下曲筆，仍不能穩定區分9與3；未見可支持前置1的筆畫，保留96並標疑。",
+      "supplemental_request_id": "reader-a-roi-08",
+      "id": "f013-R-new-q003",
+      "start": 0,
+      "end": 1,
+      "surface": "9",
+      "token": "9",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f003-L",
+      "unit_id": "f003-L-u009",
+      "codepoint_range": [
+        2,
+        3
+      ],
+      "candidates": [
+        "略",
+        "畧"
+      ],
+      "reason": "本面版心題名字小或截邊；須依各原圖判左右/上下構形，不沿用現代題名",
+      "id": "f003-L-new-q004",
+      "start": 2,
+      "end": 3,
+      "surface": "略",
+      "token": "略",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f005-L",
+      "unit_id": "f005-L-u009",
+      "codepoint_range": [
+        2,
+        3
+      ],
+      "candidates": [
+        "略",
+        "畧"
+      ],
+      "reason": "本面版心題名字小或截邊；須依各原圖判左右/上下構形，不沿用現代題名",
+      "id": "f005-L-new-q005",
+      "start": 2,
+      "end": 3,
+      "surface": "略",
+      "token": "略",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f006-L",
+      "unit_id": "f006-L-u009",
+      "codepoint_range": [
+        2,
+        3
+      ],
+      "candidates": [
+        "略",
+        "畧"
+      ],
+      "reason": "本面版心題名字小或截邊；須依各原圖判左右/上下構形，不沿用現代題名",
+      "id": "f006-L-new-q006",
+      "start": 2,
+      "end": 3,
+      "surface": "略",
+      "token": "略",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f011-L",
+      "unit_id": "f011-L-u015",
+      "codepoint_range": [
+        2,
+        3
+      ],
+      "candidates": [
+        "略",
+        "畧"
+      ],
+      "reason": "本面版心題名字小或截邊；須依各原圖判左右/上下構形，不沿用現代題名",
+      "id": "f011-L-new-q007",
+      "start": 2,
+      "end": 3,
+      "surface": "略",
+      "token": "略",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f012-R",
+      "unit_id": "f012-R-u018",
+      "codepoint_range": [
+        2,
+        3
+      ],
+      "candidates": [
+        "略",
+        "畧"
+      ],
+      "reason": "本面版心題名字小或截邊；須依各原圖判左右/上下構形，不沿用現代題名",
+      "id": "f012-R-new-q008",
+      "start": 2,
+      "end": 3,
+      "surface": "略",
+      "token": "略",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u017",
+      "codepoint_range": [
+        2,
+        3
+      ],
+      "candidates": [
+        "略",
+        "畧"
+      ],
+      "reason": "本面版心題名字小或截邊；須依各原圖判左右/上下構形，不沿用現代題名",
+      "id": "f013-L-new-q009",
+      "start": 2,
+      "end": 3,
+      "surface": "略",
+      "token": "略",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f014-R",
+      "unit_id": "f014-R-u016",
+      "codepoint_range": [
+        2,
+        3
+      ],
+      "candidates": [
+        "略",
+        "畧"
+      ],
+      "reason": "本面版心題名字小或截邊；須依各原圖判左右/上下構形，不沿用現代題名",
+      "id": "f014-R-new-q010",
+      "start": 2,
+      "end": 3,
+      "surface": "略",
+      "token": "略",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u018",
+      "codepoint_range": [
+        2,
+        3
+      ],
+      "candidates": [
+        "略",
+        "畧"
+      ],
+      "reason": "本面版心題名字小或截邊；須依各原圖判左右/上下構形，不沿用現代題名",
+      "id": "f014-L-new-q011",
+      "start": 2,
+      "end": 3,
+      "surface": "略",
+      "token": "略",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-u009",
+      "codepoint_range": [
+        18,
+        19
+      ],
+      "observed": "人",
+      "candidates": [
+        "八人",
+        "人"
+      ],
+      "source_bbox": [
+        232,
+        535,
+        283,
+        854
+      ],
+      "reason": "人前似有另一下撇位置，低解析不足以判斷字數。",
+      "status": "reading-unresolved",
+      "supplemental_evidence_state": "requested-full-region-unavailable",
+      "id": "f017-L-new-q012",
+      "start": 18,
+      "end": 19,
+      "surface": "人",
+      "token": "人",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f020-R",
+      "unit_id": "f020-R-u004",
+      "codepoint_range": [
+        24,
+        25
+      ],
+      "observed": "四",
+      "candidates": [
+        "四"
+      ],
+      "source_bbox": [
+        840,
+        390,
+        883,
+        660
+      ],
+      "reason": "框形內筆在低解析下不清；保留初讀並請核。",
+      "status": "reading-unresolved",
+      "roi_mislocation": {
+        "received_request_id": "b-hr-06",
+        "received_bbox": [
+          840,
+          390,
+          883,
+          660
+        ],
+        "reason": "Requested box was placed one column to the right and too high; received pixels show the neighbouring column, not the unresolved character.",
+        "corrected_primary_bbox": [
+          807,
+          708,
+          841,
+          811
+        ]
+      },
+      "supplemental_evidence_state": "corrected-target-transfer-failed-no-complete-image",
+      "evidence_limit": "Only the fixed 1000px primary image was available for this target. Earlier b06 ROI was actually viewed but mislocated. Corrected target transfer failed; no partial file was viewed, and no higher-resolution target reading is claimed.",
+      "transport_failure_reported_by_root": {
+        "timeout_seconds": 25,
+        "received_bytes": 32166,
+        "complete_jpeg": false,
+        "reader_viewed_partial": false,
+        "new_read_admission": false,
+        "retry_performed_by_reader": false
+      },
+      "id": "f020-R-new-q013",
+      "start": 24,
+      "end": 25,
+      "surface": "四",
+      "token": "四",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f047-L",
+      "unit_id": "f047-L-u001",
+      "codepoint_range": [
+        10,
+        12
+      ],
+      "observed": "□□",
+      "candidates": [],
+      "source_bbox": [
+        415,
+        239,
+        459,
+        653
+      ],
+      "reason": "於後兩字筆畫受淡印影響，無可靠候選。",
+      "status": "reading-unresolved",
+      "supplemental_evidence_state": "requested-full-region-unavailable",
+      "id": "f047-L-new-q014",
+      "start": 10,
+      "end": 12,
+      "surface": "□□",
+      "token": "□□",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f047-L",
+      "unit_id": "f047-L-u003",
+      "codepoint_range": [
+        6,
+        7
+      ],
+      "observed": "□",
+      "candidates": [],
+      "source_bbox": [
+        310,
+        239,
+        357,
+        631
+      ],
+      "reason": "暨後字上下部筆畫複雜且淡，無可靠候選。",
+      "status": "reading-unresolved",
+      "partial_supplement_reviews": [
+        {
+          "tile_id": "b-hr-09-tile04",
+          "source_sha256": "ff9d7dc0da5c16a0b8f259ff488daf286d96cf6ccadd02bd80b87f4b324e127e",
+          "target_covered": false,
+          "reason": "Tile shows 商 and 簽 plus only part of the following character. 簽 agrees with the initial reading; the unresolved character after 暨 is outside this tile."
+        }
+      ],
+      "id": "f047-L-new-q015",
+      "start": 6,
+      "end": 7,
+      "surface": "□",
+      "token": "□",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
+    },
+    {
+      "page_id": "f048-R",
+      "unit_id": "f048-R-u005",
+      "codepoint_range": [
+        13,
+        15
+      ],
+      "observed": "□□",
+      "candidates": [],
+      "source_bbox": [
+        684,
+        535,
+        728,
+        872
+      ],
+      "reason": "庫前兩字低解析無法分開細部筆畫，未依成語補入。",
+      "status": "reading-unresolved",
+      "partial_supplement_reviews": [
+        {
+          "tile_id": "b-hr-10-tile04",
+          "source_sha256": "b2e92acca65ced9f962ce6e37621a44e66a373c2382af2e1f5461e30afe3b69c",
+          "target_covered": false,
+          "reason": "Only the bottom of the column is supplied; the two unresolved characters before 庫 are not in this tile."
+        }
+      ],
+      "id": "f048-R-new-q016",
+      "start": 13,
+      "end": 15,
+      "surface": "□□",
+      "token": "□□",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "span_precision": "reader-exact-codepoint-range",
+      "origin": {
+        "stage": "new31initial",
+        "raw_case_retained": true
+      }
     }
   ]
 }
