@@ -20,24 +20,6 @@
       }
     },
     {
-      "id": "f007-L-q-total",
-      "page_id": "f007-L",
-      "unit_id": "f007-L-u011",
-      "start": 0,
-      "end": 16,
-      "surface": "三款共進銀二千六百七十五圓零二毫",
-      "token": "三款共進銀二千六百七十五圓零二毫",
-      "extent": 16,
-      "kind": "reading-unresolved",
-      "candidates": [],
-      "reason": "Printed literal total retained without reconciliation to component amounts; first numeric 千六 looks inconsistent but not corrected from arithmetic.",
-      "status": "unresolved",
-      "origin": {
-        "initial_case_id": "f007-L-q-total",
-        "disposition": "retained-conservatively-after-source-review"
-      }
-    },
-    {
       "id": "f007-L-q-names",
       "page_id": "f007-L",
       "unit_id": "f007-L-u005",
@@ -1106,29 +1088,6 @@
         "source": "nonblind-native-additional-uncertainty",
         "declared_unit": "f009-R-u009",
         "declared_surface": "枕沙咀",
-        "multiple_occurrences_conservatively_retained": false
-      }
-    },
-    {
-      "id": "f010-R-v020-q058",
-      "page_id": "f010-R",
-      "unit_id": "f010-R-u003",
-      "start": 23,
-      "end": 24,
-      "surface": "曾",
-      "token": "曾",
-      "extent": 1,
-      "kind": "reading-unresolved",
-      "candidates": [
-        "曾",
-        "會"
-      ],
-      "reason": "前曾字細筆不定，暫保初錄；人名同時不構成此字定字依據。",
-      "status": "unresolved",
-      "origin": {
-        "source": "nonblind-native-additional-uncertainty",
-        "declared_unit": "f010-R-u003",
-        "declared_surface": "曾",
         "multiple_occurrences_conservatively_retained": false
       }
     },

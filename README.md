@@ -4,7 +4,9 @@
 
 Qi zheng lue shu (editorial translation: Brief accounts of remarkable cases) contains case records and institutional documents associated with John Glasgow Kerr and the Medical Missionary Society hospital at Canton (Guangzhou). It includes cases and captions concerning stones, tumours and other conditions, together with hospital reports, accounts, attendance figures, organizational business and publishing notices. It supports histories of medicine, medical missions, translation, charity and medical illustration. The catalogue date 1864–1868 is recorded separately from imprints dated 1866 and 1868, a preface dated 1869 and an appendix dated 1873. This version provides JSON, TXT and TEI for 91 original printed faces, unit-level links to the source, uncertainty records and a separately labelled readable derivative. The transcription is AI-assisted: the earlier 60 faces retain independent AI reading comparison and image review; the added 31 faces are initial transcription of this witness. Uncertain readings remain marked; expert review has not been performed.
 
-版本：0.3.0。版本 DOI：[10.5281/zenodo.24184127](https://doi.org/10.5281/zenodo.24184127)；同一作品 DOI：[10.5281/zenodo.24147337](https://doi.org/10.5281/zenodo.24147337)。封裝時版本 DOI 已由 Zenodo 預留、尚未發布；此為封裝狀態紀錄。
+本次依原圖複查數字、圖號及字形，修訂12個單元。收錄範圍與上一版相同。
+
+版本 0.3.1。新版尚未分配版本 DOI。引用本版請使用[固定發行包](https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.3.1)。前版為[0.3.0](https://doi.org/10.5281/zenodo.24184127)，同一作品入口為[系列 DOI](https://doi.org/10.5281/zenodo.24147337)。
 
 book.json 是保留原字串、頁面、單元與來源關係的主資料；book.txt、book.tei.xml 為無損輸出。READABLE-TEXT.txt 是另層連讀檔，只有定位已確認的小字才以【小字／小註】插入，其餘位置未定項另列。圖號須配合館方影像閱讀。參見 READING-GUIDE.md、READING-MAP.json、COVERAGE.json、SOURCE-FRAGMENTS.json、uncertainties.json、METHODS.md 與 QUALITY.md。
 

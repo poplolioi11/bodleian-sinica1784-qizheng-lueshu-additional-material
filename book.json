@@ -1,6 +1,6 @@
 {
   "dataset_id": "bodleian-sinica1784-added-material",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "title": "奇症略述 / Qi zheng lue shu [Brief accounts of remarkable cases]: Bodleian Sinica 1784 transcription dataset",
   "source": {
     "historical_title": "奇症略述",
@@ -62,7 +62,7 @@
     "shared_reference_note": "Historical cross-witness guide retained as context only; no Sinica2021 strings transferred into new source transcription."
   },
   "quality": {
-    "stage": "Mixed review: existing60 v0.2.0 independent/nonblind source work retained unchanged; added31source-specific AI initial transcription",
+    "stage": "Mixed coverage as v0.3.0 with targeted source-image review of disputed readings in twelve previously transcribed units",
     "independent_reading_incorporated": true,
     "human_full_double_collation": false,
     "expert_review": false,
@@ -72,7 +72,7 @@
     "actual_native_effort": null,
     "native_token_counters": null,
     "units": 1021,
-    "uncertainty_records": 143,
+    "uncertainty_records": 141,
     "gaiji_occurrences": 14,
     "measured_unit_or_glyph_geometry": false,
     "nonblind_source_adjudication": true,
@@ -233,7 +233,8 @@
       "f047-L",
       "f048-R"
     ],
-    "full91_independent_collation": false
+    "full91_independent_collation": false,
+    "v031_reviewed_issue_range": "14 reported items and two associated uncertainty notes"
   },
   "offset_convention": "0-based Unicode codepoints, end exclusive; no normalization",
   "pages": [
@@ -2663,7 +2664,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-row",
-          "text": "一是年共支去銀一千八百二十五圓",
+          "text": "一是年共支去銀一千八百一十五圓",
           "gaps": []
         },
         {
@@ -2938,7 +2939,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-total",
-          "text": "總共醫症二萬一千三百六十名",
+          "text": "總共醫症三萬一千三百六十名",
           "gaps": []
         },
         {
@@ -3446,7 +3447,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "昔年捐資樂助本會以濟華民者則有大英國包令大人前曾為香港督憲",
+          "text": "昔年捐資樂助本會以濟華民者則有大英國包令大人前會為香港督憲",
           "gaps": []
         },
         {
@@ -3642,7 +3643,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "本會黃醫生嘉醫生普濟為懷諄諄不倦凡我同人欽功頌德不勝讚美",
+          "text": "本會黃醫生嘉醫生普濟為懷諄諄不倦凡我同人歌功頌德不勝讚美",
           "gaps": []
         },
         {
@@ -10483,7 +10484,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "小腸疝乃小腸離本位從肚處偏出或在臍或",
+          "text": "小腸疝乃小腸離本位從肚處偪出或在臍或",
           "gaps": []
         },
         {
@@ -10510,7 +10511,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "腿而臥不使患處緊墜醫者或以指",
+          "text": "腿而臥不使患處緊掣醫者或以指",
           "gaps": []
         },
         {
@@ -10537,7 +10538,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "番穩起夾之大小量人之肥瘦為宜",
+          "text": "番纔起夾之大小量人之肥瘦為宜",
           "gaps": []
         },
         {
@@ -10546,7 +10547,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "今將西醫銅夾繪圖於後",
+          "text": "今將西醫鋼夾繪圖於後",
           "gaps": []
         },
         {
@@ -10555,7 +10556,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "figure-caption",
-          "text": "銅夾形圖",
+          "text": "鋼夾形圖",
           "gaps": []
         },
         {
@@ -12552,7 +12553,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body-continuation",
-          "text": "粒長一寸卽圖內所刻四十全愈",
+          "text": "粒長一寸卽圖內所刻四十五愈",
           "gaps": []
         },
         {
@@ -13362,7 +13363,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "八月廿九日兩邊肉在合脫痂如未嘗崩口一般本女仔及同來攜他回去的",
+          "text": "八月廿九日兩邊肉生合脫痂如未嘗崩口一般本女仔及同來攜他回去的",
           "gaps": []
         },
         {
@@ -14929,7 +14930,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "一時漸戒久而癮性不改依舊食同以至自破其家",
+          "text": "一時漸戒久而癮性不改依舊食回以至自破其家",
           "gaps": []
         },
         {
@@ -18304,10 +18305,10 @@
   ],
   "supplemental_source_reference_note": "Only references actually present in bound deliveries are retained; presence alone does not certify that a model viewed or reviewed them. Source review and checks remain as declared in each reference/root acceptance.",
   "publication": {
-    "doi": "10.5281/zenodo.24184127",
     "concept_doi": "10.5281/zenodo.24147337",
-    "record_url": "https://zenodo.org/records/24184127",
-    "date_released": "2026-11-13",
-    "doi_status": "reserved-not-published-at-packaging"
+    "previous_version_doi": "10.5281/zenodo.24184127",
+    "date_released": "2026-11-18",
+    "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.3.1",
+    "doi_status": "no version DOI assigned at packaging"
   }
 }

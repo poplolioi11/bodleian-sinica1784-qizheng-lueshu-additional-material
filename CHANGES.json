@@ -1,42 +1,560 @@
 {
-  "from_version": "0.2.0",
-  "to_version": "0.3.0",
-  "old60_units_unchanged": 617,
-  "changed_existing_units": [],
-  "new_source_face_ids": [
-    "f002-L",
-    "f003-L",
-    "f004-R",
-    "f004-L",
-    "f005-R",
-    "f005-L",
-    "f006-R",
-    "f006-L",
-    "f007-R",
-    "f011-L",
-    "f012-R",
-    "f012-L",
-    "f013-R",
-    "f013-L",
-    "f014-R",
-    "f014-L",
-    "f015-R",
-    "f015-L",
-    "f016-R",
-    "f016-L",
-    "f017-R",
-    "f017-L",
-    "f018-R",
-    "f018-L",
-    "f019-R",
-    "f019-L",
-    "f020-R",
-    "f020-L",
-    "f021-R",
-    "f047-L",
-    "f048-R"
+  "from_version": "0.3.0",
+  "to_version": "0.3.1",
+  "prior_version_doi": "10.5281/zenodo.24184127",
+  "changed_existing_units": 12,
+  "unchanged_existing_units": 1009,
+  "new_faces": 0,
+  "new_units": 0,
+  "review_scope": "Targeted source images, not independent full-book collation",
+  "literal_decisions": [
+    {
+      "issue": "1",
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u012",
+      "before_fragment": "一千八百二十五圓",
+      "after_fragment": "一千八百一十五圓",
+      "disposition": "change",
+      "basis": "百下只有一橫，下一字為十。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/058306ff-0e87-4430-b60a-ec095603c05c.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/058306ff-0e87-4430-b60a-ec095603c05c/full/1000,/0/default.jpg",
+        "source_face_sha256": "f2916db9e6b6cd9cc389845155d330e67f3ad46d999739d956b79462bb305afb",
+        "parent_sha256": "751dde8dc060730805293fd03b7ddcc230442edc4e4aa538adeb1d82138c4957",
+        "bbox_parent_preview_px": [
+          88,
+          401,
+          115,
+          545
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "2",
+      "page_id": "f008-L",
+      "unit_id": "f008-L-u005",
+      "before_fragment": "醫症二萬",
+      "after_fragment": "醫症三萬",
+      "disposition": "change",
+      "basis": "萬上有三橫。「三」亦與當頁統計可核對。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8de7b7d8-6005-43ba-a567-cd13a5f42a11.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/8de7b7d8-6005-43ba-a567-cd13a5f42a11/full/1000,/0/default.jpg",
+        "source_face_sha256": "5ece1a424056e09e5d88409b27a779e63531b6816682ed54c5b5db8362c20cc7",
+        "parent_sha256": "4be1e9ca03be17fa9b43f2e26afc4160dfa2a9e42b78f59b61d017fa5e8f8637",
+        "bbox_parent_preview_px": [
+          307,
+          315,
+          343,
+          447
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "3a",
+      "page_id": "f033-R",
+      "unit_id": "f033-R-u004",
+      "before_fragment": "五十四",
+      "after_fragment": "五十四",
+      "disposition": "keep",
+      "basis": "最下圖旁橫排確為五十四；另頁同號保留。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a3e687d6-16ee-475b-a0a6-8a4c902d90b9.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a3e687d6-16ee-475b-a0a6-8a4c902d90b9/full/1000,/0/default.jpg",
+        "source_face_sha256": "fa4ada59557829bba23270c367d257bcbcf2de872a63f1a164cec597a8de7165",
+        "parent_sha256": "fc9214c0d6abacc989ead788706289475499b8e34b8fa5b981cc99defc40e544",
+        "bbox_parent_preview_px": [
+          676,
+          814,
+          737,
+          841
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "3b",
+      "page_id": "f035-R",
+      "unit_id": "f035-R-u008",
+      "before_fragment": "四十全愈",
+      "after_fragment": "四十五愈",
+      "disposition": "change",
+      "basis": "十後一字的筆畫為五，並無全的人字頂。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ff7bf057-cfd8-497a-a63e-a53f0c981d46.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ff7bf057-cfd8-497a-a63e-a53f0c981d46/full/1000,/0/default.jpg",
+        "source_face_sha256": "9b1f59bad4c10486eb51e88b50e7fd11d0506d8cce6e8bf912bb49057211589d",
+        "parent_sha256": "7ce3192296cf0867a799f1afb28a7901aed010df57c2e2b0c767e4d4c2b4874a",
+        "bbox_parent_preview_px": [
+          661,
+          372,
+          689,
+          557
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "4",
+      "page_id": "f031-L",
+      "unit_id": "f031-L-u012",
+      "before_fragment": "初五日",
+      "after_fragment": "初五日",
+      "disposition": "keep",
+      "basis": "該欄確印初五日及初四晚；依底本保存原次序。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e75f35d9-945a-4497-b0b1-ecaad86bad78.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/e75f35d9-945a-4497-b0b1-ecaad86bad78/full/1000,/0/default.jpg",
+        "source_face_sha256": "3979351853f3d6b5694250ec423ce9e049c206ef5f2982ead0c0e00858836c09",
+        "parent_sha256": "4f63801eef9bb5e34565bfc5407083b7769deb9a1709220d6994f4e882dad05a",
+        "bbox_parent_preview_px": [
+          75,
+          599,
+          116,
+          851
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "5",
+      "page_id": "f009-L",
+      "unit_id": "f009-L-u005",
+      "before_fragment": "一千七百七十五圓",
+      "after_fragment": "一千七百七十五圓",
+      "disposition": "keep",
+      "basis": "圓下至界線無字。帳目差額不作補字依據。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0e303cce-bc4e-486d-80c3-566ef062bfd6.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0e303cce-bc4e-486d-80c3-566ef062bfd6/full/1000,/0/default.jpg",
+        "source_face_sha256": "3102f4eb7a10b2d98e991b415f05380defdd948afba2147082e4f1d2ec4ecf3d",
+        "parent_sha256": "98e1210b7779f237f2f91f27e68bf243336a68f53a85d6a0e7cff1df620f3200",
+        "bbox_parent_preview_px": [
+          316,
+          236,
+          341,
+          555
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "6",
+      "page_id": "f034-R",
+      "unit_id": "f034-R-u002",
+      "before_fragment": "於十月初三日",
+      "after_fragment": "於十月初三日",
+      "disposition": "keep",
+      "basis": "月上一字是一橫一長豎的十。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1195a73c-287d-4ab1-9a0b-aefbddc901f3.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1195a73c-287d-4ab1-9a0b-aefbddc901f3/full/1000,/0/default.jpg",
+        "source_face_sha256": "645044f3d332cfc92cb5bacefb76a8a51bcf476e0d9aa6550135ae8500977809",
+        "parent_sha256": "e4c93ad2a3dba01017642244edb3c9ba514b283b503df4c3514207b12f7d9f67",
+        "bbox_parent_preview_px": [
+          849,
+          555,
+          881,
+          665
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "7a",
+      "page_id": "f027-L",
+      "unit_id": "f027-L-u001",
+      "before_fragment": "處偏出",
+      "after_fragment": "處偪出",
+      "disposition": "change",
+      "basis": "右部見首橫、口、田，並非扁。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
+        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
+        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/2375,3280,250,624/full/0/default.jpg",
+        "region_sha256": "1f163e180e46a70bbb92234e2945ed697ca0cfcd11ae12381218f8da97b162dc",
+        "actual_dimensions": [
+          250,
+          624
+        ],
+        "roi_xywh": [
+          2375,
+          3280,
+          250,
+          624
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "7b",
+      "page_id": "f027-L",
+      "unit_id": "f027-L-u004",
+      "before_fragment": "緊墜醫",
+      "after_fragment": "緊掣醫",
+      "disposition": "change",
+      "basis": "下部為手，上有制的立刀。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
+        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
+        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/1553,2420,261,629/full/0/default.jpg",
+        "region_sha256": "7a82bb369c1512dd2c930f76d1bba584d8b0b2086e4c3aaaff3f04905626ee66",
+        "actual_dimensions": [
+          261,
+          629
+        ],
+        "roi_xywh": [
+          1553,
+          2420,
+          261,
+          629
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "7c",
+      "page_id": "f027-L",
+      "unit_id": "f027-L-u007",
+      "before_fragment": "番穩起",
+      "after_fragment": "番纔起",
+      "disposition": "change",
+      "basis": "左為糸，右上包口，右下有兔腳，選纔。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
+        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
+        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/779,1082,271,781/full/0/default.jpg",
+        "region_sha256": "146efec341ae49163689b4063770ea3d513e756dd1bb4d2d08d7dfda2e7e2c2a",
+        "actual_dimensions": [
+          271,
+          781
+        ],
+        "roi_xywh": [
+          779,
+          1082,
+          271,
+          781
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "7d",
+      "page_id": "f027-L",
+      "unit_id": "f027-L-u008",
+      "before_fragment": "銅夾",
+      "after_fragment": "鋼夾",
+      "disposition": "change",
+      "basis": "金旁右部框中的分筆及下方山形支持岡。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
+        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
+        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/535,1781,239,548/full/0/default.jpg",
+        "region_sha256": "d8e82a2ace7a093e165a60f94707324fea0d74210d0042cc2998650195e699ae",
+        "actual_dimensions": [
+          239,
+          548
+        ],
+        "roi_xywh": [
+          535,
+          1781,
+          239,
+          548
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "7e",
+      "page_id": "f027-L",
+      "unit_id": "f027-L-u009",
+      "before_fragment": "銅夾",
+      "after_fragment": "鋼夾",
+      "disposition": "change",
+      "basis": "圖題金旁右部形與正文鋼相符。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
+        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
+        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/1526,4439,315,250/full/0/default.jpg",
+        "region_sha256": "e422fdb09937e027a24a05b7335bc383e9d84d784ddef903985887a1ab390e12",
+        "actual_dimensions": [
+          315,
+          250
+        ],
+        "roi_xywh": [
+          1526,
+          4439,
+          315,
+          250
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "8",
+      "page_id": "f029-L",
+      "unit_id": "f029-L-u002",
+      "before_fragment": "水貫瞳人",
+      "after_fragment": "水貫瞳人",
+      "disposition": "keep",
+      "basis": "貫下部見貝，該字無三點水。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/886fc9a0-5ea6-4f80-9b5f-d74018055124.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/886fc9a0-5ea6-4f80-9b5f-d74018055124/full/1000,/0/default.jpg",
+        "source_face_sha256": "8dc23e2c62d7c4356a6da12f740d8e96f7f8e2f5e4ba4fc83b163cb0cbb15992",
+        "parent_sha256": "04d2432afb2b85c8150e967c6db20a23f50d3fd2009d00f3bd979aa0b67bf1da",
+        "bbox_parent_preview_px": [
+          393,
+          397,
+          424,
+          557
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "9a",
+      "page_id": "f010-R",
+      "unit_id": "f010-R-u004",
+      "before_fragment": "前會在",
+      "after_fragment": "前會在",
+      "disposition": "keep",
+      "basis": "頂為人形撇捺，字身為會。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b66139d-d7d6-4279-ab80-34c4be7b2c24.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/full/1000,/0/default.jpg",
+        "source_face_sha256": "5def22cf791859e757426b00f550aaf3f9c96bbf7d41d028ba211d91c43a6e65",
+        "parent_sha256": "155b7c2460b9ee1e01dea6da0fd4f60d62d2ba8c36cc2439d166849f6763a280",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/4167,2506,201,434/full/0/default.jpg",
+        "region_sha256": "8db58f4501a8a18d61976bff1c0adce49071529fc10d231e0310199c2b45e384",
+        "actual_dimensions": [
+          201,
+          434
+        ],
+        "roi_xywh": [
+          4167,
+          2506,
+          201,
+          434
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "9b",
+      "page_id": "f010-R",
+      "unit_id": "f010-R-u003",
+      "before_fragment": "前曾為",
+      "after_fragment": "前會為",
+      "disposition": "change",
+      "basis": "同頁對照處也有清楚的人形撇捺頂，支持會並解除既存疑字。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b66139d-d7d6-4279-ab80-34c4be7b2c24.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/full/1000,/0/default.jpg",
+        "source_face_sha256": "5def22cf791859e757426b00f550aaf3f9c96bbf7d41d028ba211d91c43a6e65",
+        "parent_sha256": "155b7c2460b9ee1e01dea6da0fd4f60d62d2ba8c36cc2439d166849f6763a280",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/4378,3719,163,564/full/0/default.jpg",
+        "region_sha256": "a9bafd1a63a5c418c074be0f86cd65b849ab20771a83e1ba9eee7da860d112c6",
+        "actual_dimensions": [
+          163,
+          564
+        ],
+        "roi_xywh": [
+          4378,
+          3719,
+          163,
+          564
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "10",
+      "page_id": "f043-L",
+      "unit_id": "f043-L-u005",
+      "before_fragment": "食同",
+      "after_fragment": "食回",
+      "disposition": "change",
+      "basis": "中為內口，無同字內上橫。同行漸字左三點水、右斬，保留漸。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/53fd8b39-b680-42bb-8a01-479d17c77ae5.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/53fd8b39-b680-42bb-8a01-479d17c77ae5/full/1000,/0/default.jpg",
+        "source_face_sha256": "21f28e29b0c0674ca7e77f17361357021d964088f9a9eb4cb5b8a33e119759b8",
+        "parent_sha256": "a8d2b4726ced0b376c93004939c08f8dd5089752c7125ed862dff0f74fedd039",
+        "bbox_parent_preview_px": [
+          232,
+          607,
+          271,
+          727
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "11",
+      "page_id": "f039-R",
+      "unit_id": "f039-R-u002",
+      "before_fragment": "果同治",
+      "after_fragment": "果同治",
+      "disposition": "keep",
+      "basis": "末字見田下木，原印果，沒有依詞義改杷。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/90404f15-785a-4436-84d3-6b628698c221.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/90404f15-785a-4436-84d3-6b628698c221/full/1000,/0/default.jpg",
+        "source_face_sha256": "55dfb76b0b3bc72418a00dcfccd754094f0b7957d98a1fe07c2b81925ec4d239",
+        "parent_sha256": "3cb2ff614bc681f1ba631a6f3d7024e734d0073ebbeb9735de73b86a005c5e4f",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/90404f15-785a-4436-84d3-6b628698c221/4643,3768,196,488/full/0/default.jpg",
+        "region_sha256": "80cfb29dbb637af24f8d1b67a3796f816d5c9e50f4cea718a8ed87d8eb3893cd",
+        "actual_dimensions": [
+          196,
+          487
+        ],
+        "roi_xywh": [
+          4643,
+          3768,
+          196,
+          488
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "12",
+      "page_id": "f010-L",
+      "unit_id": "f010-L-u006",
+      "before_fragment": "欽功頌德",
+      "after_fragment": "歌功頌德",
+      "disposition": "change",
+      "basis": "左部見上下兩可，右部為欠。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b66139d-d7d6-4279-ab80-34c4be7b2c24.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/full/1000,/0/default.jpg",
+        "source_face_sha256": "e74524a4112c189a7377c92899346fd81d159fead59cca20d7b723ff32464a1b",
+        "parent_sha256": "155b7c2460b9ee1e01dea6da0fd4f60d62d2ba8c36cc2439d166849f6763a280",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/1493,3448,245,640/full/0/default.jpg",
+        "region_sha256": "905a5fec0ffd612f6b22f6f0e2096d2685276beaa4066e97787efb816d9fd795",
+        "actual_dimensions": [
+          245,
+          640
+        ],
+        "roi_xywh": [
+          1493,
+          3448,
+          245,
+          640
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "13",
+      "page_id": "f038-R",
+      "unit_id": "f038-R-u005",
+      "before_fragment": "肉在合",
+      "after_fragment": "肉生合",
+      "disposition": "change",
+      "basis": "肉下所印為三橫帶中豎的生；未見在字下土與斜撇組合。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a377ee3e-126d-45fe-9844-7dad4b2d3505.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a377ee3e-126d-45fe-9844-7dad4b2d3505/full/1000,/0/default.jpg",
+        "source_face_sha256": "4c1b854dd03d3445b1c035bf5f00cade0c202a95e07bee9acc96605e2ea5c9fa",
+        "parent_sha256": "898a546f2625cb2af1a34fde998d23a7abd00de49c73b56a438f186f8e85b8e4",
+        "bbox_parent_preview_px": [
+          758,
+          379,
+          788,
+          460
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "14",
+      "page_id": "f041-L",
+      "unit_id": "f041-L-u002",
+      "before_fragment": "廣西桂縣",
+      "after_fragment": "廣西桂縣",
+      "disposition": "keep",
+      "basis": "木旁右為二土，依底本保留桂。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5d1798c4-0b84-462f-b40e-5b807bbce165.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/5d1798c4-0b84-462f-b40e-5b807bbce165/full/1000,/0/default.jpg",
+        "source_face_sha256": "ab1b233dbbf4665ab931e8aa69717bd134514b4971aea48bd8843a7490572f78",
+        "parent_sha256": "b514f51db22d9dfea114693dc59864f65797276ab1c622d019750353a954aa2e",
+        "bbox_parent_preview_px": [
+          407,
+          344,
+          433,
+          448
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    },
+    {
+      "issue": "addendum1",
+      "page_id": "f035-L",
+      "unit_id": "f035-L-u003",
+      "before_fragment": "六七",
+      "after_fragment": "六七",
+      "disposition": "unresolved",
+      "basis": "六下圖號墨線相接，無法可靠分辨七與十一。旁筆61與正文不是原印字形證據。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ff7bf057-cfd8-497a-a63e-a53f0c981d46.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ff7bf057-cfd8-497a-a63e-a53f0c981d46/full/1000,/0/default.jpg",
+        "source_face_sha256": "1e78e80c089be29fd5d88e8408b13dd561f34d237d17a74c4de08c56c86b724a",
+        "parent_sha256": "7ce3192296cf0867a799f1afb28a7901aed010df57c2e2b0c767e4d4c2b4874a",
+        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ff7bf057-cfd8-497a-a63e-a53f0c981d46/2007,2522,180,267/full/0/default.jpg",
+        "region_sha256": "6ca5c238bf7c8cccc8b392f02532b39b74564e99ae1f6467325b0736e40bb1d7",
+        "actual_dimensions": [
+          180,
+          267
+        ],
+        "roi_xywh": [
+          2007,
+          2522,
+          180,
+          267
+        ],
+        "locator_basis": "Official IIIF region; actual decoded rendition verified"
+      }
+    },
+    {
+      "issue": "addendum2",
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u011",
+      "before_fragment": "二千六百七十五圓零二毫",
+      "after_fragment": "二千六百七十五圓零二毫",
+      "disposition": "keep",
+      "basis": "原刻總數逐字核明，且717.30＋1,910.64＋47.26＝2,675.20。更正舊疑讀理由，文字保持。",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/058306ff-0e87-4430-b60a-ec095603c05c.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/058306ff-0e87-4430-b60a-ec095603c05c/full/1000,/0/default.jpg",
+        "source_face_sha256": "f2916db9e6b6cd9cc389845155d330e67f3ad46d999739d956b79462bb305afb",
+        "parent_sha256": "751dde8dc060730805293fd03b7ddcc230442edc4e4aa538adeb1d82138c4957",
+        "bbox_parent_preview_px": [
+          119,
+          270,
+          153,
+          630
+        ],
+        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
+      }
+    }
   ],
-  "new_initial_units": 404,
-  "cross_witness_strings_copied": false,
-  "review_scope": "New31initial only; old60 review state retained, not full91 independent collation"
+  "retired_reading_uncertainty_ids": [
+    "f007-L-q-total",
+    "f010-R-v020-q058"
+  ]
 }
