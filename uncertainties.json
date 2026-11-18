@@ -2998,8 +2998,8 @@
       "page_id": "f020-R",
       "unit_id": "f020-R-u004",
       "codepoint_range": [
-        24,
-        25
+        25,
+        26
       ],
       "observed": "四",
       "candidates": [
@@ -3040,8 +3040,8 @@
         "retry_performed_by_reader": false
       },
       "id": "f020-R-new-q013",
-      "start": 24,
-      "end": 25,
+      "start": 25,
+      "end": 26,
       "surface": "四",
       "token": "四",
       "extent": "unknown",
@@ -3157,6 +3157,41 @@
       "origin": {
         "stage": "new31initial",
         "raw_case_retained": true
+      }
+    },
+    {
+      "id": "f014-R-u005-v032-gap",
+      "unit_id": "f014-R-u005",
+      "page_id": "f014-R",
+      "start": 4,
+      "end": 6,
+      "codepoint_range": [
+        4,
+        6
+      ],
+      "surface": "至日",
+      "token": "至日",
+      "extent": "unknown",
+      "kind": "reading-unresolved",
+      "status": "unresolved",
+      "gap_after_codepoint": 5,
+      "candidates": [],
+      "reason": "「至」與「日」隔兩格。官圖原像素可見一豎與殘墨，兩格不足定字。異本可讀「十一」，本藏保留原轉錄並加疑讀。",
+      "span_precision": "exact-surrounding-context-of-unreadable-space",
+      "origin": {
+        "stage": "v032-appendix-source-review"
+      },
+      "source_locator": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b5a911d-d2f9-4e92-a68e-45b81d66b844.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4b5a911d-d2f9-4e92-a68e-45b81d66b844/full/1000,/0/default.jpg",
+        "source_face_sha256": "a82e6035230be090ca4f8088872c7b2cf5ea3c1c98240fe9823c62b9f5fe207e",
+        "face_bbox_xyxy": [
+          250,
+          269,
+          284,
+          427
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
       }
     }
   ]

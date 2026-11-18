@@ -1,560 +1,787 @@
 {
-  "from_version": "0.3.0",
-  "to_version": "0.3.1",
-  "prior_version_doi": "10.5281/zenodo.24184127",
-  "changed_existing_units": 12,
-  "unchanged_existing_units": 1009,
+  "from_version": "0.3.1",
+  "to_version": "0.3.2",
+  "previous_version_url": "https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.3.1",
+  "changed_existing_units": 29,
+  "unchanged_existing_units": 992,
   "new_faces": 0,
   "new_units": 0,
-  "review_scope": "Targeted source images, not independent full-book collation",
+  "review_scope": "Targeted inspection of the cited locations, with limited evidence for each figure",
+  "reviewed_appendix_rows": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "unresolved_appendix_rows": [
+    6
+  ],
+  "corrected_appendix_rows": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "comparison_witness": "Bodleian Sinica 2021",
+  "comparison_transcription": "https://github.com/poplolioi11/bodleian-sinica2021-qizheng-lueshu-1868/releases/tag/v0.2.0",
+  "comparison_original": "https://digital.bodleian.ox.ac.uk/objects/2b78eb2a-11d1-4923-8fbd-c157e4c72f0e/",
   "literal_decisions": [
     {
-      "issue": "1",
-      "page_id": "f007-L",
-      "unit_id": "f007-L-u012",
-      "before_fragment": "一千八百二十五圓",
-      "after_fragment": "一千八百一十五圓",
-      "disposition": "change",
-      "basis": "百下只有一橫，下一字為十。",
+      "appendix_row": 1,
+      "unit_id": "f011-L-u003",
+      "before": "錢二分",
+      "after": "錢一分",
+      "comparison_unit": "p13-c03",
+      "page_id": "f011-L",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/058306ff-0e87-4430-b60a-ec095603c05c.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/058306ff-0e87-4430-b60a-ec095603c05c/full/1000,/0/default.jpg",
-        "source_face_sha256": "f2916db9e6b6cd9cc389845155d330e67f3ad46d999739d956b79462bb305afb",
-        "parent_sha256": "751dde8dc060730805293fd03b7ddcc230442edc4e4aa538adeb1d82138c4957",
-        "bbox_parent_preview_px": [
-          88,
-          401,
-          115,
-          545
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1a5c9eed-0c0e-4e8b-9d76-b2d57f44f416.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1a5c9eed-0c0e-4e8b-9d76-b2d57f44f416/full/1000,/0/default.jpg",
+        "source_face_sha256": "ba1d80565cbafe37879c8430451ef00f4aa12b6f7fa0ae68a5028bc66f7dfeb5",
+        "face_bbox_xyxy": [
+          378,
+          668,
+          412,
+          826
         ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
     },
     {
-      "issue": "2",
-      "page_id": "f008-L",
-      "unit_id": "f008-L-u005",
-      "before_fragment": "醫症二萬",
-      "after_fragment": "醫症三萬",
-      "disposition": "change",
-      "basis": "萬上有三橫。「三」亦與當頁統計可核對。",
+      "appendix_row": 2,
+      "unit_id": "f011-L-u004",
+      "before": "另碎砂二粒",
+      "after": "另碎砂三粒",
+      "comparison_unit": "p13-c04",
+      "page_id": "f011-L",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8de7b7d8-6005-43ba-a567-cd13a5f42a11.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/8de7b7d8-6005-43ba-a567-cd13a5f42a11/full/1000,/0/default.jpg",
-        "source_face_sha256": "5ece1a424056e09e5d88409b27a779e63531b6816682ed54c5b5db8362c20cc7",
-        "parent_sha256": "4be1e9ca03be17fa9b43f2e26afc4160dfa2a9e42b78f59b61d017fa5e8f8637",
-        "bbox_parent_preview_px": [
-          307,
-          315,
-          343,
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1a5c9eed-0c0e-4e8b-9d76-b2d57f44f416.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1a5c9eed-0c0e-4e8b-9d76-b2d57f44f416/full/1000,/0/default.jpg",
+        "source_face_sha256": "ba1d80565cbafe37879c8430451ef00f4aa12b6f7fa0ae68a5028bc66f7dfeb5",
+        "face_bbox_xyxy": [
+          344,
+          743,
+          378,
+          901
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 3,
+      "unit_id": "f011-L-u011",
+      "before": "同治六年二月",
+      "after": "同治六年三月",
+      "comparison_unit": "p13-c11",
+      "page_id": "f011-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1a5c9eed-0c0e-4e8b-9d76-b2d57f44f416.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1a5c9eed-0c0e-4e8b-9d76-b2d57f44f416/full/1000,/0/default.jpg",
+        "source_face_sha256": "ba1d80565cbafe37879c8430451ef00f4aa12b6f7fa0ae68a5028bc66f7dfeb5",
+        "face_bbox_xyxy": [
+          154,
+          726,
+          188,
+          884
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 4,
+      "unit_id": "f012-R-u016",
+      "before": "本月十六日",
+      "after": "本月十六日",
+      "comparison_unit": "p14-c16",
+      "page_id": "f012-R",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/592d7294-56a5-41f1-b2e5-233a3209085d.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/592d7294-56a5-41f1-b2e5-233a3209085d/full/1000,/0/default.jpg",
+        "source_face_sha256": "b4a8f31610e281e098d87659a6d83911671b23284fa1208b0d2514eb8da5d6fb",
+        "face_bbox_xyxy": [
+          10,
+          267,
+          44,
+          425
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "本藏日期依原刻保留。異本此處為「廿六日」。",
+      "disposition": "keep"
+    },
+    {
+      "appendix_row": 5,
+      "unit_id": "f014-R-u001",
+      "before": "年方廿二歲",
+      "after": "年方廿三歲",
+      "comparison_unit": "p16-c01",
+      "page_id": "f014-R",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b5a911d-d2f9-4e92-a68e-45b81d66b844.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4b5a911d-d2f9-4e92-a68e-45b81d66b844/full/1000,/0/default.jpg",
+        "source_face_sha256": "a82e6035230be090ca4f8088872c7b2cf5ea3c1c98240fe9823c62b9f5fe207e",
+        "face_bbox_xyxy": [
+          383,
+          364,
+          417,
+          522
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 6,
+      "unit_id": "f014-R-u005",
+      "before": "至日",
+      "after": "至日",
+      "comparison_unit": "p16-c05",
+      "page_id": "f014-R",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b5a911d-d2f9-4e92-a68e-45b81d66b844.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4b5a911d-d2f9-4e92-a68e-45b81d66b844/full/1000,/0/default.jpg",
+        "source_face_sha256": "a82e6035230be090ca4f8088872c7b2cf5ea3c1c98240fe9823c62b9f5fe207e",
+        "face_bbox_xyxy": [
+          250,
+          269,
+          284,
+          427
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "「至」與「日」隔兩格。官圖原像素可見一豎與殘墨，兩格不足定字。異本可讀「十一」，本藏保留原轉錄並加疑讀。",
+      "disposition": "unresolved"
+    },
+    {
+      "appendix_row": 7,
+      "unit_id": "f014-L-u013",
+      "before": "年二十四歲",
+      "after": "年三十四歲",
+      "comparison_unit": "p17-c13",
+      "page_id": "f014-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b5a911d-d2f9-4e92-a68e-45b81d66b844.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4b5a911d-d2f9-4e92-a68e-45b81d66b844/full/1000,/0/default.jpg",
+        "source_face_sha256": "86f632e4f3f26417cb8aae04127070163721a75785ff72482749f7ff171cd3cf",
+        "face_bbox_xyxy": [
+          194,
+          289,
+          228,
           447
         ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
     },
     {
-      "issue": "3a",
-      "page_id": "f033-R",
-      "unit_id": "f033-R-u004",
-      "before_fragment": "五十四",
-      "after_fragment": "五十四",
-      "disposition": "keep",
-      "basis": "最下圖旁橫排確為五十四；另頁同號保留。",
+      "appendix_row": 8,
+      "unit_id": "f014-L-u016",
+      "before": "症起七",
+      "after": "症起一",
+      "comparison_unit": "p17-c16",
+      "page_id": "f014-L",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a3e687d6-16ee-475b-a0a6-8a4c902d90b9.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a3e687d6-16ee-475b-a0a6-8a4c902d90b9/full/1000,/0/default.jpg",
-        "source_face_sha256": "fa4ada59557829bba23270c367d257bcbcf2de872a63f1a164cec597a8de7165",
-        "parent_sha256": "fc9214c0d6abacc989ead788706289475499b8e34b8fa5b981cc99defc40e544",
-        "bbox_parent_preview_px": [
-          676,
-          814,
-          737,
-          841
-        ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
-    },
-    {
-      "issue": "3b",
-      "page_id": "f035-R",
-      "unit_id": "f035-R-u008",
-      "before_fragment": "四十全愈",
-      "after_fragment": "四十五愈",
-      "disposition": "change",
-      "basis": "十後一字的筆畫為五，並無全的人字頂。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ff7bf057-cfd8-497a-a63e-a53f0c981d46.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ff7bf057-cfd8-497a-a63e-a53f0c981d46/full/1000,/0/default.jpg",
-        "source_face_sha256": "9b1f59bad4c10486eb51e88b50e7fd11d0506d8cce6e8bf912bb49057211589d",
-        "parent_sha256": "7ce3192296cf0867a799f1afb28a7901aed010df57c2e2b0c767e4d4c2b4874a",
-        "bbox_parent_preview_px": [
-          661,
-          372,
-          689,
-          557
-        ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
-    },
-    {
-      "issue": "4",
-      "page_id": "f031-L",
-      "unit_id": "f031-L-u012",
-      "before_fragment": "初五日",
-      "after_fragment": "初五日",
-      "disposition": "keep",
-      "basis": "該欄確印初五日及初四晚；依底本保存原次序。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e75f35d9-945a-4497-b0b1-ecaad86bad78.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/e75f35d9-945a-4497-b0b1-ecaad86bad78/full/1000,/0/default.jpg",
-        "source_face_sha256": "3979351853f3d6b5694250ec423ce9e049c206ef5f2982ead0c0e00858836c09",
-        "parent_sha256": "4f63801eef9bb5e34565bfc5407083b7769deb9a1709220d6994f4e882dad05a",
-        "bbox_parent_preview_px": [
-          75,
-          599,
-          116,
-          851
-        ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
-    },
-    {
-      "issue": "5",
-      "page_id": "f009-L",
-      "unit_id": "f009-L-u005",
-      "before_fragment": "一千七百七十五圓",
-      "after_fragment": "一千七百七十五圓",
-      "disposition": "keep",
-      "basis": "圓下至界線無字。帳目差額不作補字依據。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0e303cce-bc4e-486d-80c3-566ef062bfd6.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0e303cce-bc4e-486d-80c3-566ef062bfd6/full/1000,/0/default.jpg",
-        "source_face_sha256": "3102f4eb7a10b2d98e991b415f05380defdd948afba2147082e4f1d2ec4ecf3d",
-        "parent_sha256": "98e1210b7779f237f2f91f27e68bf243336a68f53a85d6a0e7cff1df620f3200",
-        "bbox_parent_preview_px": [
-          316,
-          236,
-          341,
-          555
-        ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
-    },
-    {
-      "issue": "6",
-      "page_id": "f034-R",
-      "unit_id": "f034-R-u002",
-      "before_fragment": "於十月初三日",
-      "after_fragment": "於十月初三日",
-      "disposition": "keep",
-      "basis": "月上一字是一橫一長豎的十。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1195a73c-287d-4ab1-9a0b-aefbddc901f3.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1195a73c-287d-4ab1-9a0b-aefbddc901f3/full/1000,/0/default.jpg",
-        "source_face_sha256": "645044f3d332cfc92cb5bacefb76a8a51bcf476e0d9aa6550135ae8500977809",
-        "parent_sha256": "e4c93ad2a3dba01017642244edb3c9ba514b283b503df4c3514207b12f7d9f67",
-        "bbox_parent_preview_px": [
-          849,
-          555,
-          881,
-          665
-        ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
-    },
-    {
-      "issue": "7a",
-      "page_id": "f027-L",
-      "unit_id": "f027-L-u001",
-      "before_fragment": "處偏出",
-      "after_fragment": "處偪出",
-      "disposition": "change",
-      "basis": "右部見首橫、口、田，並非扁。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
-        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
-        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/2375,3280,250,624/full/0/default.jpg",
-        "region_sha256": "1f163e180e46a70bbb92234e2945ed697ca0cfcd11ae12381218f8da97b162dc",
-        "actual_dimensions": [
-          250,
-          624
-        ],
-        "roi_xywh": [
-          2375,
-          3280,
-          250,
-          624
-        ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
-    },
-    {
-      "issue": "7b",
-      "page_id": "f027-L",
-      "unit_id": "f027-L-u004",
-      "before_fragment": "緊墜醫",
-      "after_fragment": "緊掣醫",
-      "disposition": "change",
-      "basis": "下部為手，上有制的立刀。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
-        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
-        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/1553,2420,261,629/full/0/default.jpg",
-        "region_sha256": "7a82bb369c1512dd2c930f76d1bba584d8b0b2086e4c3aaaff3f04905626ee66",
-        "actual_dimensions": [
-          261,
-          629
-        ],
-        "roi_xywh": [
-          1553,
-          2420,
-          261,
-          629
-        ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
-    },
-    {
-      "issue": "7c",
-      "page_id": "f027-L",
-      "unit_id": "f027-L-u007",
-      "before_fragment": "番穩起",
-      "after_fragment": "番纔起",
-      "disposition": "change",
-      "basis": "左為糸，右上包口，右下有兔腳，選纔。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
-        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
-        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/779,1082,271,781/full/0/default.jpg",
-        "region_sha256": "146efec341ae49163689b4063770ea3d513e756dd1bb4d2d08d7dfda2e7e2c2a",
-        "actual_dimensions": [
-          271,
-          781
-        ],
-        "roi_xywh": [
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4b5a911d-d2f9-4e92-a68e-45b81d66b844.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4b5a911d-d2f9-4e92-a68e-45b81d66b844/full/1000,/0/default.jpg",
+        "source_face_sha256": "86f632e4f3f26417cb8aae04127070163721a75785ff72482749f7ff171cd3cf",
+        "face_bbox_xyxy": [
+          128,
           779,
-          1082,
+          162,
+          937
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 9,
+      "unit_id": "f015-R-u011",
+      "before": "年廿一歲",
+      "after": "年十一歲",
+      "comparison_unit": "p18-c11",
+      "page_id": "f015-R",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/99817ccd-3ee6-43c7-b520-0a10f9837fa9.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/99817ccd-3ee6-43c7-b520-0a10f9837fa9/full/1000,/0/default.jpg",
+        "source_face_sha256": "99222e3d771e474547a2a04c0885e5e107268f4541d38311ee3616d4c8fdb24d",
+        "face_bbox_xyxy": [
+          145,
+          286,
+          179,
+          444
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 10,
+      "unit_id": "f015-R-u011",
+      "before": "一歲二月廿九日",
+      "after": "一歲正月廿九日",
+      "comparison_unit": "p18-c11",
+      "page_id": "f015-R",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/99817ccd-3ee6-43c7-b520-0a10f9837fa9.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/99817ccd-3ee6-43c7-b520-0a10f9837fa9/full/1000,/0/default.jpg",
+        "source_face_sha256": "99222e3d771e474547a2a04c0885e5e107268f4541d38311ee3616d4c8fdb24d",
+        "face_bbox_xyxy": [
+          145,
+          351,
+          179,
+          509
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 11,
+      "unit_id": "f015-L-u001",
+      "before": "氏年十二歲",
+      "after": "氏年十一歲",
+      "comparison_unit": "p19-c01",
+      "page_id": "f015-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/99817ccd-3ee6-43c7-b520-0a10f9837fa9.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/99817ccd-3ee6-43c7-b520-0a10f9837fa9/full/1000,/0/default.jpg",
+        "source_face_sha256": "0e83db7c41ecc8bb23507208010d4d1784f89447c1e70a1123b06cc19c9c74fa",
+        "face_bbox_xyxy": [
+          451,
+          387,
+          479,
+          449
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 12,
+      "unit_id": "f015-L-u011",
+      "before": "氏年四十二歲",
+      "after": "氏年四十一歲",
+      "comparison_unit": "p19-c11",
+      "page_id": "f015-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/99817ccd-3ee6-43c7-b520-0a10f9837fa9.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/99817ccd-3ee6-43c7-b520-0a10f9837fa9/full/1000,/0/default.jpg",
+        "source_face_sha256": "0e83db7c41ecc8bb23507208010d4d1784f89447c1e70a1123b06cc19c9c74fa",
+        "face_bbox_xyxy": [
+          219,
+          408,
+          247,
+          470
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 13,
+      "unit_id": "f015-L-u014",
+      "before": "十三歲二月",
+      "after": "十三歲三月",
+      "comparison_unit": "p19-c14",
+      "page_id": "f015-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/99817ccd-3ee6-43c7-b520-0a10f9837fa9.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/99817ccd-3ee6-43c7-b520-0a10f9837fa9/full/1000,/0/default.jpg",
+        "source_face_sha256": "0e83db7c41ecc8bb23507208010d4d1784f89447c1e70a1123b06cc19c9c74fa",
+        "face_bbox_xyxy": [
+          152,
+          472,
+          180,
+          534
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 14,
+      "unit_id": "f016-L-u008",
+      "before": "年方二十一歲",
+      "after": "年方三十一歲",
+      "comparison_unit": "p21-c08",
+      "page_id": "f016-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5967e589-8dfb-46b1-a892-61b26bbe9b3a.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/5967e589-8dfb-46b1-a892-61b26bbe9b3a/full/1000,/0/default.jpg",
+        "source_face_sha256": "6e119f27cb7dcf30615632962a8d162922995c6245371b6c8054b01e19a74044",
+        "face_bbox_xyxy": [
+          290,
+          383,
+          318,
+          445
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 15,
+      "unit_id": "f016-L-u015",
+      "before": "年方二十四歲",
+      "after": "年方三十四歲",
+      "comparison_unit": "p21-c15",
+      "page_id": "f016-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5967e589-8dfb-46b1-a892-61b26bbe9b3a.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/5967e589-8dfb-46b1-a892-61b26bbe9b3a/full/1000,/0/default.jpg",
+        "source_face_sha256": "6e119f27cb7dcf30615632962a8d162922995c6245371b6c8054b01e19a74044",
+        "face_bbox_xyxy": [
+          128,
+          383,
+          156,
+          445
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 16,
+      "unit_id": "f017-R-u007",
+      "before": "症起二年",
+      "after": "症起三年",
+      "comparison_unit": "p22-c07",
+      "page_id": "f017-R",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd2bd0f0-af00-4e8f-989c-c675e1c602eb.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/bd2bd0f0-af00-4e8f-989c-c675e1c602eb/full/1000,/0/default.jpg",
+        "source_face_sha256": "53b900841ed832112d39bc144d20033e5d77445d976f4fcb5ec7a58ee90c3bc6",
+        "face_bbox_xyxy": [
+          238,
+          694,
+          266,
+          756
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 17,
+      "unit_id": "f017-L-u010",
+      "before": "內死十四人",
+      "after": "內死一十四人",
+      "comparison_unit": "p23-c10",
+      "page_id": "f017-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd2bd0f0-af00-4e8f-989c-c675e1c602eb.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/bd2bd0f0-af00-4e8f-989c-c675e1c602eb/full/1000,/0/default.jpg",
+        "source_face_sha256": "a7b7094b09fb60760404a8deebe75bcff19d60ae3f9bd51de70ba2568183286a",
+        "face_bbox_xyxy": [
+          252,
+          677,
+          292,
+          832
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "本藏小注刻「內死一十四人」。「一」位於十上。該處另一底本印「四十四人」，各依原本。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 18,
+      "unit_id": "f017-L-u012",
+      "before": "同治六年",
+      "after": "同治六七年",
+      "comparison_unit": "p23-c11",
+      "page_id": "f017-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd2bd0f0-af00-4e8f-989c-c675e1c602eb.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/bd2bd0f0-af00-4e8f-989c-c675e1c602eb/full/1000,/0/default.jpg",
+        "source_face_sha256": "a7b7094b09fb60760404a8deebe75bcff19d60ae3f9bd51de70ba2568183286a",
+        "face_bbox_xyxy": [
+          221,
+          278,
+          254,
+          390
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩本都在「治」下以右六、左七的小字並列，本藏補錄原印「七」。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 19,
+      "unit_id": "f017-L-u014",
+      "before": "傷有一年",
+      "after": "傷有二年",
+      "comparison_unit": "p23-c13",
+      "page_id": "f017-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd2bd0f0-af00-4e8f-989c-c675e1c602eb.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/bd2bd0f0-af00-4e8f-989c-c675e1c602eb/full/1000,/0/default.jpg",
+        "source_face_sha256": "a7b7094b09fb60760404a8deebe75bcff19d60ae3f9bd51de70ba2568183286a",
+        "face_bbox_xyxy": [
+          161,
+          432,
+          189,
+          494
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 20,
+      "unit_id": "f018-R-u005",
+      "before": "腿爛一口",
+      "after": "腿爛二口",
+      "comparison_unit": "p24-c05",
+      "page_id": "f018-R",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/fed27341-8c56-45d9-bfb0-7cf009291433.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/fed27341-8c56-45d9-bfb0-7cf009291433/full/1000,/0/default.jpg",
+        "source_face_sha256": "793072db339a337c4715cee981a0282aba0b823118b5f1f6ab37c6e7386fa6af",
+        "face_bbox_xyxy": [
+          243,
+          723,
           271,
-          781
+          785
         ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
     },
     {
-      "issue": "7d",
-      "page_id": "f027-L",
-      "unit_id": "f027-L-u008",
-      "before_fragment": "銅夾",
-      "after_fragment": "鋼夾",
-      "disposition": "change",
-      "basis": "金旁右部框中的分筆及下方山形支持岡。",
+      "appendix_row": 21,
+      "unit_id": "f018-R-u006",
+      "before": "起一年於八月",
+      "after": "起二年於八月",
+      "comparison_unit": "p24-c06",
+      "page_id": "f018-R",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
-        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
-        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/535,1781,239,548/full/0/default.jpg",
-        "region_sha256": "d8e82a2ace7a093e165a60f94707324fea0d74210d0042cc2998650195e699ae",
-        "actual_dimensions": [
-          239,
-          548
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/fed27341-8c56-45d9-bfb0-7cf009291433.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/fed27341-8c56-45d9-bfb0-7cf009291433/full/1000,/0/default.jpg",
+        "source_face_sha256": "793072db339a337c4715cee981a0282aba0b823118b5f1f6ab37c6e7386fa6af",
+        "face_bbox_xyxy": [
+          223,
+          248,
+          249,
+          322
         ],
-        "roi_xywh": [
-          535,
-          1781,
-          239,
-          548
-        ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
     },
     {
-      "issue": "7e",
-      "page_id": "f027-L",
-      "unit_id": "f027-L-u009",
-      "before_fragment": "銅夾",
-      "after_fragment": "鋼夾",
-      "disposition": "change",
-      "basis": "圖題金旁右部形與正文鋼相符。",
+      "appendix_row": 22,
+      "unit_id": "f018-R-u008",
+      "before": "如碗起一年",
+      "after": "如碗起二年",
+      "comparison_unit": "p24-c08",
+      "page_id": "f018-R",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/256e876a-dada-480f-9528-4db2b68727f4.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/full/1000,/0/default.jpg",
-        "source_face_sha256": "ac53d1eaeab28f154387fbfaf0f06bb6290e37f694db0dbd3111e124187f599a",
-        "parent_sha256": "a731d021f2697407358c640fe9832839978685d5d7129d1195664ff6ae1432af",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/256e876a-dada-480f-9528-4db2b68727f4/1526,4439,315,250/full/0/default.jpg",
-        "region_sha256": "e422fdb09937e027a24a05b7335bc383e9d84d784ddef903985887a1ab390e12",
-        "actual_dimensions": [
-          315,
-          250
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/fed27341-8c56-45d9-bfb0-7cf009291433.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/fed27341-8c56-45d9-bfb0-7cf009291433/full/1000,/0/default.jpg",
+        "source_face_sha256": "793072db339a337c4715cee981a0282aba0b823118b5f1f6ab37c6e7386fa6af",
+        "face_bbox_xyxy": [
+          145,
+          413,
+          175,
+          491
         ],
-        "roi_xywh": [
-          1526,
-          4439,
-          315,
-          250
-        ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
     },
     {
-      "issue": "8",
-      "page_id": "f029-L",
-      "unit_id": "f029-L-u002",
-      "before_fragment": "水貫瞳人",
-      "after_fragment": "水貫瞳人",
-      "disposition": "keep",
-      "basis": "貫下部見貝，該字無三點水。",
+      "appendix_row": 23,
+      "unit_id": "f018-R-u012",
+      "before": "如橙起二年",
+      "after": "如橙起三年",
+      "comparison_unit": "p24-c12",
+      "page_id": "f018-R",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/886fc9a0-5ea6-4f80-9b5f-d74018055124.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/886fc9a0-5ea6-4f80-9b5f-d74018055124/full/1000,/0/default.jpg",
-        "source_face_sha256": "8dc23e2c62d7c4356a6da12f740d8e96f7f8e2f5e4ba4fc83b163cb0cbb15992",
-        "parent_sha256": "04d2432afb2b85c8150e967c6db20a23f50d3fd2009d00f3bd979aa0b67bf1da",
-        "bbox_parent_preview_px": [
-          393,
-          397,
-          424,
-          557
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/fed27341-8c56-45d9-bfb0-7cf009291433.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/fed27341-8c56-45d9-bfb0-7cf009291433/full/1000,/0/default.jpg",
+        "source_face_sha256": "793072db339a337c4715cee981a0282aba0b823118b5f1f6ab37c6e7386fa6af",
+        "face_bbox_xyxy": [
+          45,
+          439,
+          77,
+          527
         ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
     },
     {
-      "issue": "9a",
-      "page_id": "f010-R",
-      "unit_id": "f010-R-u004",
-      "before_fragment": "前會在",
-      "after_fragment": "前會在",
-      "disposition": "keep",
-      "basis": "頂為人形撇捺，字身為會。",
+      "appendix_row": 24,
+      "unit_id": "f019-L-u002",
+      "before": "長五寸",
+      "after": "長五六寸",
+      "comparison_unit": "p27-c02",
+      "page_id": "f019-L",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b66139d-d7d6-4279-ab80-34c4be7b2c24.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/full/1000,/0/default.jpg",
-        "source_face_sha256": "5def22cf791859e757426b00f550aaf3f9c96bbf7d41d028ba211d91c43a6e65",
-        "parent_sha256": "155b7c2460b9ee1e01dea6da0fd4f60d62d2ba8c36cc2439d166849f6763a280",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/4167,2506,201,434/full/0/default.jpg",
-        "region_sha256": "8db58f4501a8a18d61976bff1c0adce49071529fc10d231e0310199c2b45e384",
-        "actual_dimensions": [
-          201,
-          434
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e16735c8-e9ba-477b-aba9-1944a0fdf89b.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/e16735c8-e9ba-477b-aba9-1944a0fdf89b/full/1000,/0/default.jpg",
+        "source_face_sha256": "c7861b2df119f13501f71e670bb2a9ea406e0eb5b454827111f7d1b15afe08a3",
+        "face_bbox_xyxy": [
+          419,
+          592,
+          449,
+          705
         ],
-        "roi_xywh": [
-          4167,
-          2506,
-          201,
-          434
-        ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "「長」後有並列小字，右五、左六，兩本版面一致。",
+      "disposition": "change"
     },
     {
-      "issue": "9b",
-      "page_id": "f010-R",
-      "unit_id": "f010-R-u003",
-      "before_fragment": "前曾為",
-      "after_fragment": "前會為",
-      "disposition": "change",
-      "basis": "同頁對照處也有清楚的人形撇捺頂，支持會並解除既存疑字。",
+      "appendix_row": 25,
+      "unit_id": "f019-L-u007",
+      "before": "年二十八歲",
+      "after": "年三十八歲",
+      "comparison_unit": "p27-c07",
+      "page_id": "f019-L",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b66139d-d7d6-4279-ab80-34c4be7b2c24.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/full/1000,/0/default.jpg",
-        "source_face_sha256": "5def22cf791859e757426b00f550aaf3f9c96bbf7d41d028ba211d91c43a6e65",
-        "parent_sha256": "155b7c2460b9ee1e01dea6da0fd4f60d62d2ba8c36cc2439d166849f6763a280",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/4378,3719,163,564/full/0/default.jpg",
-        "region_sha256": "a9bafd1a63a5c418c074be0f86cd65b849ab20771a83e1ba9eee7da860d112c6",
-        "actual_dimensions": [
-          163,
-          564
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e16735c8-e9ba-477b-aba9-1944a0fdf89b.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/e16735c8-e9ba-477b-aba9-1944a0fdf89b/full/1000,/0/default.jpg",
+        "source_face_sha256": "c7861b2df119f13501f71e670bb2a9ea406e0eb5b454827111f7d1b15afe08a3",
+        "face_bbox_xyxy": [
+          286,
+          419,
+          326,
+          501
         ],
-        "roi_xywh": [
-          4378,
-          3719,
-          163,
-          564
-        ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
     },
     {
-      "issue": "10",
-      "page_id": "f043-L",
-      "unit_id": "f043-L-u005",
-      "before_fragment": "食同",
-      "after_fragment": "食回",
-      "disposition": "change",
-      "basis": "中為內口，無同字內上橫。同行漸字左三點水、右斬，保留漸。",
+      "appendix_row": 26,
+      "unit_id": "f019-L-u013",
+      "before": "近二節骨",
+      "after": "近三節骨",
+      "comparison_unit": "p27-c13",
+      "page_id": "f019-L",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/53fd8b39-b680-42bb-8a01-479d17c77ae5.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/53fd8b39-b680-42bb-8a01-479d17c77ae5/full/1000,/0/default.jpg",
-        "source_face_sha256": "21f28e29b0c0674ca7e77f17361357021d964088f9a9eb4cb5b8a33e119759b8",
-        "parent_sha256": "a8d2b4726ced0b376c93004939c08f8dd5089752c7125ed862dff0f74fedd039",
-        "bbox_parent_preview_px": [
-          232,
-          607,
-          271,
-          727
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e16735c8-e9ba-477b-aba9-1944a0fdf89b.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/e16735c8-e9ba-477b-aba9-1944a0fdf89b/full/1000,/0/default.jpg",
+        "source_face_sha256": "c7861b2df119f13501f71e670bb2a9ea406e0eb5b454827111f7d1b15afe08a3",
+        "face_bbox_xyxy": [
+          97,
+          235,
+          127,
+          311
         ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
     },
     {
-      "issue": "11",
-      "page_id": "f039-R",
-      "unit_id": "f039-R-u002",
-      "before_fragment": "果同治",
-      "after_fragment": "果同治",
-      "disposition": "keep",
-      "basis": "末字見田下木，原印果，沒有依詞義改杷。",
+      "appendix_row": 27,
+      "unit_id": "f020-R-u004",
+      "before": "濶有五寸",
+      "after": "濶有五六寸",
+      "comparison_unit": "p28-c04",
+      "page_id": "f020-R",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/90404f15-785a-4436-84d3-6b628698c221.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/90404f15-785a-4436-84d3-6b628698c221/full/1000,/0/default.jpg",
-        "source_face_sha256": "55dfb76b0b3bc72418a00dcfccd754094f0b7957d98a1fe07c2b81925ec4d239",
-        "parent_sha256": "3cb2ff614bc681f1ba631a6f3d7024e734d0073ebbeb9735de73b86a005c5e4f",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/90404f15-785a-4436-84d3-6b628698c221/4643,3768,196,488/full/0/default.jpg",
-        "region_sha256": "80cfb29dbb637af24f8d1b67a3796f816d5c9e50f4cea718a8ed87d8eb3893cd",
-        "actual_dimensions": [
-          196,
-          487
-        ],
-        "roi_xywh": [
-          4643,
-          3768,
-          196,
-          488
-        ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
-    },
-    {
-      "issue": "12",
-      "page_id": "f010-L",
-      "unit_id": "f010-L-u006",
-      "before_fragment": "欽功頌德",
-      "after_fragment": "歌功頌德",
-      "disposition": "change",
-      "basis": "左部見上下兩可，右部為欠。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b66139d-d7d6-4279-ab80-34c4be7b2c24.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/full/1000,/0/default.jpg",
-        "source_face_sha256": "e74524a4112c189a7377c92899346fd81d159fead59cca20d7b723ff32464a1b",
-        "parent_sha256": "155b7c2460b9ee1e01dea6da0fd4f60d62d2ba8c36cc2439d166849f6763a280",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b66139d-d7d6-4279-ab80-34c4be7b2c24/1493,3448,245,640/full/0/default.jpg",
-        "region_sha256": "905a5fec0ffd612f6b22f6f0e2096d2685276beaa4066e97787efb816d9fd795",
-        "actual_dimensions": [
-          245,
-          640
-        ],
-        "roi_xywh": [
-          1493,
-          3448,
-          245,
-          640
-        ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
-    },
-    {
-      "issue": "13",
-      "page_id": "f038-R",
-      "unit_id": "f038-R-u005",
-      "before_fragment": "肉在合",
-      "after_fragment": "肉生合",
-      "disposition": "change",
-      "basis": "肉下所印為三橫帶中豎的生；未見在字下土與斜撇組合。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a377ee3e-126d-45fe-9844-7dad4b2d3505.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a377ee3e-126d-45fe-9844-7dad4b2d3505/full/1000,/0/default.jpg",
-        "source_face_sha256": "4c1b854dd03d3445b1c035bf5f00cade0c202a95e07bee9acc96605e2ea5c9fa",
-        "parent_sha256": "898a546f2625cb2af1a34fde998d23a7abd00de49c73b56a438f186f8e85b8e4",
-        "bbox_parent_preview_px": [
-          758,
-          379,
-          788,
-          460
-        ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
-    },
-    {
-      "issue": "14",
-      "page_id": "f041-L",
-      "unit_id": "f041-L-u002",
-      "before_fragment": "廣西桂縣",
-      "after_fragment": "廣西桂縣",
-      "disposition": "keep",
-      "basis": "木旁右為二土，依底本保留桂。",
-      "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5d1798c4-0b84-462f-b40e-5b807bbce165.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/5d1798c4-0b84-462f-b40e-5b807bbce165/full/1000,/0/default.jpg",
-        "source_face_sha256": "ab1b233dbbf4665ab931e8aa69717bd134514b4971aea48bd8843a7490572f78",
-        "parent_sha256": "b514f51db22d9dfea114693dc59864f65797276ab1c622d019750353a954aa2e",
-        "bbox_parent_preview_px": [
-          407,
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69a46b70-4e18-41c6-82cd-3cf3fbdcab31.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/69a46b70-4e18-41c6-82cd-3cf3fbdcab31/full/1000,/0/default.jpg",
+        "source_face_sha256": "3b0a35a8d972963d305fe82a11c62f63f98c32c971c869a2f36f1e90644cdafb",
+        "face_bbox_xyxy": [
+          310,
+          478,
           344,
-          433,
-          448
+          551
         ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "「有」下右五、左六並排，兩本同式。原疑讀「四」的範圍依增字同步移位，疑讀仍保留。",
+      "disposition": "change"
     },
     {
-      "issue": "addendum1",
-      "page_id": "f035-L",
-      "unit_id": "f035-L-u003",
-      "before_fragment": "六七",
-      "after_fragment": "六七",
-      "disposition": "unresolved",
-      "basis": "六下圖號墨線相接，無法可靠分辨七與十一。旁筆61與正文不是原印字形證據。",
+      "appendix_row": 28,
+      "unit_id": "f020-R-u010",
+      "before": "壹斤十一兩",
+      "after": "壹斤十二兩",
+      "comparison_unit": "p28-c10",
+      "page_id": "f020-R",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ff7bf057-cfd8-497a-a63e-a53f0c981d46.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ff7bf057-cfd8-497a-a63e-a53f0c981d46/full/1000,/0/default.jpg",
-        "source_face_sha256": "1e78e80c089be29fd5d88e8408b13dd561f34d237d17a74c4de08c56c86b724a",
-        "parent_sha256": "7ce3192296cf0867a799f1afb28a7901aed010df57c2e2b0c767e4d4c2b4874a",
-        "region_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ff7bf057-cfd8-497a-a63e-a53f0c981d46/2007,2522,180,267/full/0/default.jpg",
-        "region_sha256": "6ca5c238bf7c8cccc8b392f02532b39b74564e99ae1f6467325b0736e40bb1d7",
-        "actual_dimensions": [
-          180,
-          267
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69a46b70-4e18-41c6-82cd-3cf3fbdcab31.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/69a46b70-4e18-41c6-82cd-3cf3fbdcab31/full/1000,/0/default.jpg",
+        "source_face_sha256": "3b0a35a8d972963d305fe82a11c62f63f98c32c971c869a2f36f1e90644cdafb",
+        "face_bbox_xyxy": [
+          121,
+          442,
+          156,
+          574
         ],
-        "roi_xywh": [
-          2007,
-          2522,
-          180,
-          267
-        ],
-        "locator_basis": "Official IIIF region; actual decoded rendition verified"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
     },
     {
-      "issue": "addendum2",
-      "page_id": "f007-L",
-      "unit_id": "f007-L-u011",
-      "before_fragment": "二千六百七十五圓零二毫",
-      "after_fragment": "二千六百七十五圓零二毫",
-      "disposition": "keep",
-      "basis": "原刻總數逐字核明，且717.30＋1,910.64＋47.26＝2,675.20。更正舊疑讀理由，文字保持。",
+      "appendix_row": 29,
+      "unit_id": "f020-L-u003",
+      "before": "共二百零六人",
+      "after": "共三百零六人",
+      "comparison_unit": "p29-c02",
+      "page_id": "f020-L",
       "source": {
-        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/058306ff-0e87-4430-b60a-ec095603c05c.json",
-        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/058306ff-0e87-4430-b60a-ec095603c05c/full/1000,/0/default.jpg",
-        "source_face_sha256": "f2916db9e6b6cd9cc389845155d330e67f3ad46d999739d956b79462bb305afb",
-        "parent_sha256": "751dde8dc060730805293fd03b7ddcc230442edc4e4aa538adeb1d82138c4957",
-        "bbox_parent_preview_px": [
-          119,
-          270,
-          153,
-          630
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69a46b70-4e18-41c6-82cd-3cf3fbdcab31.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/69a46b70-4e18-41c6-82cd-3cf3fbdcab31/full/1000,/0/default.jpg",
+        "source_face_sha256": "1356305d6af132061b61f6e98214e0b1ac048a4edd53cfc446c7e02ef1b212ed",
+        "face_bbox_xyxy": [
+          405,
+          418,
+          448,
+          548
         ],
-        "locator_basis": "Manual region on fixed 1000-pixel-wide source preview"
-      }
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 30,
+      "unit_id": "f020-L-u006",
+      "before": "壹萬二千九百人",
+      "after": "壹萬三千九百人",
+      "comparison_unit": "p29-c04",
+      "page_id": "f020-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69a46b70-4e18-41c6-82cd-3cf3fbdcab31.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/69a46b70-4e18-41c6-82cd-3cf3fbdcab31/full/1000,/0/default.jpg",
+        "source_face_sha256": "1356305d6af132061b61f6e98214e0b1ac048a4edd53cfc446c7e02ef1b212ed",
+        "face_bbox_xyxy": [
+          348,
+          500,
+          383,
+          641
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 31,
+      "unit_id": "f020-L-u008",
+      "before": "壹千一百二十二人",
+      "after": "壹千一百一十二人",
+      "comparison_unit": "p29-c06",
+      "page_id": "f020-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69a46b70-4e18-41c6-82cd-3cf3fbdcab31.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/69a46b70-4e18-41c6-82cd-3cf3fbdcab31/full/1000,/0/default.jpg",
+        "source_face_sha256": "1356305d6af132061b61f6e98214e0b1ac048a4edd53cfc446c7e02ef1b212ed",
+        "face_bbox_xyxy": [
+          282,
+          435,
+          318,
+          585
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "兩份館藏影像的原印數字一致。依本藏影像訂正。",
+      "disposition": "change"
+    },
+    {
+      "appendix_row": 32,
+      "unit_id": "f020-L-u013",
+      "before": "三千零八十八人",
+      "after": "三千零八十人",
+      "comparison_unit": "p29-c09",
+      "page_id": "f020-L",
+      "source": {
+        "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/69a46b70-4e18-41c6-82cd-3cf3fbdcab31.json",
+        "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/69a46b70-4e18-41c6-82cd-3cf3fbdcab31/full/1000,/0/default.jpg",
+        "source_face_sha256": "1356305d6af132061b61f6e98214e0b1ac048a4edd53cfc446c7e02ef1b212ed",
+        "face_bbox_xyxy": [
+          185,
+          506,
+          224,
+          692
+        ],
+        "locator_basis": "Bounding rectangle on the fixed Sinica 1784 face preview"
+      },
+      "basis": "本藏原刻「壹萬三千零八十人」，此次刪本藏誤重錄的末位八。另一底本轉錄還有萬位後數字誤讀。",
+      "disposition": "change"
     }
-  ],
-  "retired_reading_uncertainty_ids": [
-    "f007-L-q-total",
-    "f010-R-v020-q058"
   ]
 }

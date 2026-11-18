@@ -4,6 +4,8 @@
 
 舊60面的既有讀稿比對與原圖複核保留；新增31面只有初錄，不應把91面稱為全文二校。工程格式與雜湊檢查不保證讀字正確。
 
-主資料1,021單元，現行疑讀／來源問題141筆；來源片段鏡像不重算單元。詳細範圍、座標與小註位置見COVERAGE.json、SOURCE-MAP.json、READING-MAP.json、uncertainties.json及METHODS.md。未知模型、推理強度與用量保持未知。
+主資料1,021單元，現行疑讀／來源問題142筆；來源片段鏡像不重算單元。詳細範圍、座標與小註位置見COVERAGE.json、SOURCE-MAP.json、READING-MAP.json、uncertainties.json及METHODS.md。未知模型、推理強度與用量保持未知。
 
 0.3.1 的12處文字變動為原圖核對後的局部修訂。
+
+0.3.2 針對附表所列數字回查原圖，其中一處因殘墨留疑。各條修訂的原件連結、位置及範圍見 CHANGES.json。

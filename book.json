@@ -1,6 +1,6 @@
 {
   "dataset_id": "bodleian-sinica1784-added-material",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "title": "奇症略述 / Qi zheng lue shu [Brief accounts of remarkable cases]: Bodleian Sinica 1784 transcription dataset",
   "source": {
     "historical_title": "奇症略述",
@@ -62,7 +62,7 @@
     "shared_reference_note": "Historical cross-witness guide retained as context only; no Sinica2021 strings transferred into new source transcription."
   },
   "quality": {
-    "stage": "Mixed coverage as v0.3.0 with targeted source-image review of disputed readings in twelve previously transcribed units",
+    "stage": "Mixed coverage with targeted source-image review of disputed readings",
     "independent_reading_incorporated": true,
     "human_full_double_collation": false,
     "expert_review": false,
@@ -72,7 +72,7 @@
     "actual_native_effort": null,
     "native_token_counters": null,
     "units": 1021,
-    "uncertainty_records": 141,
+    "uncertainty_records": 142,
     "gaiji_occurrences": 14,
     "measured_unit_or_glyph_geometry": false,
     "nonblind_source_adjudication": true,
@@ -234,7 +234,58 @@
       "f048-R"
     ],
     "full91_independent_collation": false,
-    "v031_reviewed_issue_range": "14 reported items and two associated uncertainty notes"
+    "v031_reviewed_issue_range": "14 reported items and two associated uncertainty notes",
+    "v032_reviewed_appendix_rows": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "v032_unresolved_appendix_rows": [
+      6
+    ],
+    "v032_targeted_review_faces": [
+      "f011-L",
+      "f012-R",
+      "f014-L",
+      "f014-R",
+      "f015-L",
+      "f015-R",
+      "f016-L",
+      "f017-L",
+      "f017-R",
+      "f018-R",
+      "f019-L",
+      "f020-L",
+      "f020-R"
+    ]
   },
   "offset_convention": "0-based Unicode codepoints, end exclusive; no normalization",
   "pages": [
@@ -3835,7 +3886,7 @@
         },
         {
           "id": "f011-L-u003",
-          "text": "他用鉗直入膀胱拑碎之砂一連拑了五次共出砂重弍錢二分後用鉗探度",
+          "text": "他用鉗直入膀胱拑碎之砂一連拑了五次共出砂重弍錢一分後用鉗探度",
           "role": "body-column",
           "order": 3,
           "supplemental_source_refs": [
@@ -3872,7 +3923,7 @@
         },
         {
           "id": "f011-L-u004",
-          "text": "知此砂甚大至四月初五日用刀在膀胱割開取出砂一大粒另碎砂二粒共",
+          "text": "知此砂甚大至四月初五日用刀在膀胱割開取出砂一大粒另碎砂三粒共",
           "role": "body-column",
           "order": 4,
           "layer": "faithful",
@@ -3947,7 +3998,7 @@
         },
         {
           "id": "f011-L-u011",
-          "text": "症起八個月於本月廿五日用鉗直入膀胱拑碎此砂至同治六年二月十",
+          "text": "症起八個月於本月廿五日用鉗直入膀胱拑碎此砂至同治六年三月十",
           "role": "body-column",
           "order": 11,
           "layer": "faithful",
@@ -5380,7 +5431,7 @@
       "units": [
         {
           "id": "f014-R-u001",
-          "text": "一東莞縣人氏年方廿二歲同治六年六月十一日來醫砂淋小便甚痛症起",
+          "text": "一東莞縣人氏年方廿三歲同治六年六月十一日來醫砂淋小便甚痛症起",
           "role": "body-column",
           "order": 1,
           "layer": "faithful",
@@ -5901,7 +5952,7 @@
         },
         {
           "id": "f014-L-u013",
-          "text": "一東莞縣人年二十四歲同治六年九月廿五日來醫砂淋小便甚痛症起八",
+          "text": "一東莞縣人年三十四歲同治六年九月廿五日來醫砂淋小便甚痛症起八",
           "role": "body-column",
           "order": 13,
           "layer": "faithful",
@@ -5944,7 +5995,7 @@
         },
         {
           "id": "f014-L-u016",
-          "text": "一順德縣人氏年廿五歲同治六年十一月初六日來醫砂淋小便痛症起七",
+          "text": "一順德縣人氏年廿五歲同治六年十一月初六日來醫砂淋小便痛症起一",
           "role": "body-column",
           "order": 16,
           "layer": "faithful",
@@ -6148,7 +6199,7 @@
         },
         {
           "id": "f015-R-u011",
-          "text": "一東莞縣人年廿一歲二月廿九日來醫砂淋小便痛症起七年於二月十一",
+          "text": "一東莞縣人年十一歲正月廿九日來醫砂淋小便痛症起七年於二月十一",
           "role": "body",
           "order": 11,
           "layer": "faithful",
@@ -6290,7 +6341,7 @@
       "units": [
         {
           "id": "f015-L-u001",
-          "text": "一嘉應州人氏年十二歲三月初八日來醫砂淋小便痛症起八年於卽月十",
+          "text": "一嘉應州人氏年十一歲三月初八日來醫砂淋小便痛症起八年於卽月十",
           "role": "body",
           "order": 1,
           "layer": "faithful",
@@ -6370,7 +6421,7 @@
         },
         {
           "id": "f015-L-u011",
-          "text": "一新會縣人氏年四十二歲三月初五日來醫砂淋小便甚痛症起七年卽月",
+          "text": "一新會縣人氏年四十一歲三月初五日來醫砂淋小便甚痛症起七年卽月",
           "role": "body",
           "order": 11,
           "layer": "faithful",
@@ -6394,7 +6445,7 @@
         },
         {
           "id": "f015-L-u014",
-          "text": "一東莞縣人氏年方四十三歲二月廿六日來醫砂淋小便十分辛苦況小便",
+          "text": "一東莞縣人氏年方四十三歲三月廿六日來醫砂淋小便十分辛苦況小便",
           "role": "body",
           "order": 14,
           "layer": "faithful",
@@ -6850,7 +6901,7 @@
         },
         {
           "id": "f016-L-u008",
-          "text": "一順德縣人氏年方二十一歲閏四月十一日來醫砂淋小便甚痛症起二年",
+          "text": "一順德縣人氏年方三十一歲閏四月十一日來醫砂淋小便甚痛症起二年",
           "role": "body",
           "order": 8,
           "layer": "faithful",
@@ -6906,7 +6957,7 @@
         },
         {
           "id": "f016-L-u015",
-          "text": "一惠州府人氏年方二十四歲六月初九日來醫砂淋小便甚痛症起三年於",
+          "text": "一惠州府人氏年方三十四歲六月初九日來醫砂淋小便甚痛症起三年於",
           "role": "body",
           "order": 15,
           "layer": "faithful",
@@ -7049,7 +7100,7 @@
         },
         {
           "id": "f017-R-u007",
-          "text": "一東莞縣人年六歲八月廿七日來醫砂淋小便甚痛症起二年卽月廿九日",
+          "text": "一東莞縣人年六歲八月廿七日來醫砂淋小便甚痛症起三年卽月廿九日",
           "role": "body",
           "order": 7,
           "layer": "faithful",
@@ -7349,7 +7400,7 @@
         },
         {
           "id": "f017-L-u010",
-          "text": "內死十四人",
+          "text": "內死一十四人",
           "role": "interlinear_note",
           "order": 10,
           "layer": "faithful",
@@ -7365,7 +7416,7 @@
         },
         {
           "id": "f017-L-u012",
-          "text": "同治六年各雜症列左",
+          "text": "同治六七年各雜症列左",
           "role": "section_heading",
           "order": 12,
           "layer": "faithful",
@@ -7381,7 +7432,7 @@
         },
         {
           "id": "f017-L-u014",
-          "text": "杵頭脫下第一日症傷有一年於卽月廿一日割開十分辛苦始能取出杵頭",
+          "text": "杵頭脫下第一日症傷有二年於卽月廿一日割開十分辛苦始能取出杵頭",
           "role": "body",
           "order": 14,
           "layer": "faithful",
@@ -7578,7 +7629,7 @@
         },
         {
           "id": "f018-R-u005",
-          "text": "葉臺番禺縣人年九歲同治六年七月廿六日來醫右下腿爛一口有腐骨症",
+          "text": "葉臺番禺縣人年九歲同治六年七月廿六日來醫右下腿爛二口有腐骨症",
           "role": "body",
           "order": 5,
           "layer": "faithful",
@@ -7586,7 +7637,7 @@
         },
         {
           "id": "f018-R-u006",
-          "text": "起一年於八月初一日取出腐骨一條長五寸卽月十九日全愈而去",
+          "text": "起二年於八月初一日取出腐骨一條長五寸卽月十九日全愈而去",
           "role": "body",
           "order": 6,
           "layer": "faithful",
@@ -7602,7 +7653,7 @@
         },
         {
           "id": "f018-R-u008",
-          "text": "骨半肉瘤症大如碗起一年卽月廿一日割出重壹斤連顴骨併上牙床一齊",
+          "text": "骨半肉瘤症大如碗起二年卽月廿一日割出重壹斤連顴骨併上牙床一齊",
           "role": "body",
           "order": 8,
           "layer": "faithful",
@@ -7634,7 +7685,7 @@
         },
         {
           "id": "f018-R-u012",
-          "text": "一半骨半肉瘤症大如橙起二年卽月廿二日割出重七兩割去了牙床一半",
+          "text": "一半骨半肉瘤症大如橙起三年卽月廿二日割出重七兩割去了牙床一半",
           "role": "body",
           "order": 12,
           "layer": "faithful",
@@ -8136,7 +8187,7 @@
         },
         {
           "id": "f019-L-u002",
-          "text": "胯下生一黑肉瘤症甚黑如漆大如節瓜其底長五寸自出世漸大卽月初八",
+          "text": "胯下生一黑肉瘤症甚黑如漆大如節瓜其底長五六寸自出世漸大卽月初八",
           "role": "body",
           "order": 2,
           "layer": "faithful",
@@ -8176,7 +8227,7 @@
         },
         {
           "id": "f019-L-u007",
-          "text": "黃亞加東莞縣人氏年二十八歲同治七年八月廿四日來醫左上腿被彈子",
+          "text": "黃亞加東莞縣人氏年三十八歲同治七年八月廿四日來醫左上腿被彈子",
           "role": "body",
           "order": 7,
           "layer": "faithful",
@@ -8224,7 +8275,7 @@
         },
         {
           "id": "f019-L-u013",
-          "text": "近二節骨部位生一大肉瘤症起十四年大如洋柚於九月初四日割出重三",
+          "text": "近三節骨部位生一大肉瘤症起十四年大如洋柚於九月初四日割出重三",
           "role": "body",
           "order": 13,
           "layer": "faithful",
@@ -8397,7 +8448,7 @@
         },
         {
           "id": "f020-R-u004",
-          "text": "跌傷左額至面珠下傷口濶有五寸沙泥塊滿傷口後洗干淨四便見了骨衣",
+          "text": "跌傷左額至面珠下傷口濶有五六寸沙泥塊滿傷口後洗干淨四便見了骨衣",
           "role": "body",
           "order": 4,
           "layer": "faithful",
@@ -8445,7 +8496,7 @@
         },
         {
           "id": "f020-R-u010",
-          "text": "九月初五日割出重壹斤十一兩至十一月廿四日全愈而去",
+          "text": "九月初五日割出重壹斤十二兩至十一月廿四日全愈而去",
           "role": "body",
           "order": 10,
           "layer": "faithful",
@@ -8647,7 +8698,7 @@
         },
         {
           "id": "f020-L-u003",
-          "text": "本局男人到就醫者共二百零六人",
+          "text": "本局男人到就醫者共三百零六人",
           "role": "body",
           "order": 3,
           "layer": "faithful",
@@ -8671,7 +8722,7 @@
         },
         {
           "id": "f020-L-u006",
-          "text": "惠愛醫館逢期來求醫者男女共壹萬二千九百人",
+          "text": "惠愛醫館逢期來求醫者男女共壹萬三千九百人",
           "role": "body",
           "order": 6,
           "layer": "faithful",
@@ -8687,7 +8738,7 @@
         },
         {
           "id": "f020-L-u008",
-          "text": "本局總割大小症共壹千一百二十二人",
+          "text": "本局總割大小症共壹千一百一十二人",
           "role": "body",
           "order": 8,
           "layer": "faithful",
@@ -8727,7 +8778,7 @@
         },
         {
           "id": "f020-L-u013",
-          "text": "惠愛醫館逢期來求醫男女共壹萬三千零八十八人",
+          "text": "惠愛醫館逢期來求醫男女共壹萬三千零八十人",
           "role": "body",
           "order": 13,
           "layer": "faithful",
@@ -18306,9 +18357,10 @@
   "supplemental_source_reference_note": "Only references actually present in bound deliveries are retained; presence alone does not certify that a model viewed or reviewed them. Source review and checks remain as declared in each reference/root acceptance.",
   "publication": {
     "concept_doi": "10.5281/zenodo.24147337",
-    "previous_version_doi": "10.5281/zenodo.24184127",
+    "previous_version_url": "https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.3.1",
+    "latest_archived_version_at_packaging_doi": "10.5281/zenodo.24184127",
     "date_released": "2026-11-18",
-    "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.3.1",
+    "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1784-qizheng-lueshu-additional-material/releases/tag/v0.3.2",
     "doi_status": "no version DOI assigned at packaging"
   }
 }

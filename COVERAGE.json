@@ -200,8 +200,13 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f011-L-u003",
+        "f011-L-u004",
+        "f011-L-u011"
+      ]
     },
     {
       "face_id": "f012-R",
@@ -212,8 +217,11 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f012-R-u016"
+      ]
     },
     {
       "face_id": "f012-L",
@@ -260,8 +268,12 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f014-R-u001",
+        "f014-R-u005"
+      ]
     },
     {
       "face_id": "f014-L",
@@ -272,8 +284,12 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f014-L-u013",
+        "f014-L-u016"
+      ]
     },
     {
       "face_id": "f015-R",
@@ -284,8 +300,11 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f015-R-u011"
+      ]
     },
     {
       "face_id": "f015-L",
@@ -296,8 +315,13 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f015-L-u001",
+        "f015-L-u011",
+        "f015-L-u014"
+      ]
     },
     {
       "face_id": "f016-R",
@@ -320,8 +344,12 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f016-L-u008",
+        "f016-L-u015"
+      ]
     },
     {
       "face_id": "f017-R",
@@ -332,8 +360,11 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f017-R-u007"
+      ]
     },
     {
       "face_id": "f017-L",
@@ -344,8 +375,13 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f017-L-u010",
+        "f017-L-u012",
+        "f017-L-u014"
+      ]
     },
     {
       "face_id": "f018-R",
@@ -356,8 +392,14 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f018-R-u005",
+        "f018-R-u006",
+        "f018-R-u008",
+        "f018-R-u012"
+      ]
     },
     {
       "face_id": "f018-L",
@@ -392,8 +434,13 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f019-L-u002",
+        "f019-L-u007",
+        "f019-L-u013"
+      ]
     },
     {
       "face_id": "f020-R",
@@ -404,8 +451,12 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f020-R-u004",
+        "f020-R-u010"
+      ]
     },
     {
       "face_id": "f020-L",
@@ -416,8 +467,14 @@
       "text_provided_here": true,
       "shared_dataset": "https://doi.org/10.5281/zenodo.23880332",
       "mapping_limit": "Current text read from Sinica1784; previous cross-witness guide is not used as the source text",
-      "processing_stage": "AI-source-initial-only",
-      "previous_v020_state": "reference-only; no text transfer from shared dataset"
+      "processing_stage": "AI-source-initial-with-targeted-numeral-review",
+      "previous_v020_state": "reference-only; no text transfer from shared dataset",
+      "targeted_numeral_review_units": [
+        "f020-L-u003",
+        "f020-L-u006",
+        "f020-L-u008",
+        "f020-L-u013"
+      ]
     },
     {
       "face_id": "f021-R",
